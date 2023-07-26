@@ -1,0 +1,966 @@
+#EXTINF:-1 xui-id="6563" tvg-id="NOW80UK" tvg-name="UK: NOW 80s" tvg-logo="http://jg7k3.ifiesta.net:8080/images/d2c61ea3190956efa0876b539a60b28c.png" group-title="United Kingdom - Music",UK: NOW 80s
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PAY0APnPtS_jPgFuRZQLOXm7FvqhBoz2JOHJCu2Oi7OZ/ts
+#EXTINF:-1 xui-id="6564" tvg-id="BBC1HD" tvg-name="UK: BBC One FHD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/62d53cbc9afa12f742017639555a6f0c.png" group-title="United Kingdom - Entertainment",UK: BBC One FHD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PAY0APnPtS_jPgFuRZQLOXmtWVDXIeB9MIFfAeakEugD/ts
+#EXTINF:-1 xui-id="6565" tvg-id="BBC1HD" tvg-name="UK: BBC One HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/62d53cbc9afa12f742017639555a6f0c.png" group-title="United Kingdom - Entertainment",UK: BBC One HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PAY0APnPtS_jPgFuRZQLOXn0v5WAjX3uCzCANNTfYG7L/ts
+#EXTINF:-1 xui-id="6566" tvg-id="BBC1HD" tvg-name="UK: BBC One SD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/22dc48716fe42c6cd05efe5de8f564e4.png" group-title="United Kingdom - Entertainment",UK: BBC One SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PAY0APnPtS_jPgFuRZQLOXlZ9wPbS9kRw-ZkiPrt0cza/ts
+#EXTINF:-1 xui-id="6567" tvg-id="BBC1SCO" tvg-name="UK: BBC One Scotland HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/2a2597c312df6ef359234fe5c148ecc8.png" group-title="United Kingdom - Entertainment",UK: BBC One Scotland HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PAY0APnPtS_jPgFuRZQLOXlZUXG6eWQh8x7N-0367QTZ/ts
+#EXTINF:-1 xui-id="6568" tvg-id="BBC1WAL" tvg-name="UK: BBC One Wales HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/cfad635de1df146f8832f3b8dfc4f9f1.png" group-title="United Kingdom - Entertainment",UK: BBC One Wales HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PAY0APnPtS_jPgFuRZQLOXk-uEYsBZCClo7TvtTRcR8Q/ts
+#EXTINF:-1 xui-id="6569" tvg-id="BBC1EAST" tvg-name="UK: BBC One East HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/eb366c5f6fdb984d1f5b22338dd43a06.png" group-title="United Kingdom - Entertainment",UK: BBC One East HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PAY0APnPtS_jPgFuRZQLOXkDqj-86MXfOdlCG0XJBWsS/ts
+#EXTINF:-1 xui-id="6570" tvg-id="BBC1EM" tvg-name="UK: BBC One East Midlands" tvg-logo="http://jg7k3.ifiesta.net:8080/images/a0acf05db0bc0061de255b137fc9caac.png" group-title="United Kingdom - Entertainment",UK: BBC One East Midlands
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PAY0APnPtS_jPgFuRZQLOXmtY3yFF7YfN5hOldRQBCBG/ts
+#EXTINF:-1 xui-id="6571" tvg-id="BBC1WSM" tvg-name="UK: BBC One West Midlands HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/eb7b4f4f57bb83a73944daf1ff74a242.png" group-title="United Kingdom - Entertainment",UK: BBC One West Midlands HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PAY0APnPtS_jPgFuRZQLOXmnjSK-fKqFdMN2l5btO2a_/ts
+#EXTINF:-1 xui-id="6572" tvg-id="bbc1wales.uk" tvg-name="UK: BBC One Wales" tvg-logo="http://jg7k3.ifiesta.net:8080/images/7e98a645f3d11b0b88e4dda8a33465aa.png" group-title="United Kingdom - Entertainment",UK: BBC One Wales
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PAY0APnPtS_jPgFuRZQLOXld3FtbfS9dmbG10GMzMtTv/ts
+#EXTINF:-1 xui-id="6573" tvg-id="BBC1EYL" tvg-name="UK: BBC One Yorks & Lincs HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/74feb27a9e532de711da18b8fef675b5.png" group-title="United Kingdom - Entertainment",UK: BBC One Yorks & Lincs HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PAY0APnPtS_jPgFuRZQLOXlwkrlMTJtSszjFjAEwr4B0/ts
+#EXTINF:-1 xui-id="6574" tvg-id="BBC1NI" tvg-name="UK: BBC One Northern Ireland HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/13467494ebb18b0c081d94c43f4cc0ba.png" group-title="United Kingdom - Entertainment",UK: BBC One Northern Ireland HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PAY0APnPtS_jPgFuRZQLOXmC5g-g694CodyoNypN6R4J/ts
+#EXTINF:-1 xui-id="6575" tvg-id="BBC2HD" tvg-name="UK: BBC Two HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/a1a3f3ff6adb75c84fd9a26c8959f2ae.png" group-title="United Kingdom - Entertainment",UK: BBC Two HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PAY0APnPtS_jPgFuRZQLOXlyAW4E8YMI1jr67zZhBN7k/ts
+#EXTINF:-1 xui-id="6576" tvg-id="BBC2" tvg-name="UK: BBC Two SD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/9cc02d61a0930d0e1771e51523547e9f.png" group-title="United Kingdom - Entertainment",UK: BBC Two SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PAY0APnPtS_jPgFuRZQLOXmiaWqBI8eeHLoi17n_PDo5/ts
+#EXTINF:-1 xui-id="6577" tvg-id="BBC2WAL" tvg-name="UK: BBC Two (Wales) HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/a929b834e8488a0337a98695fd15a088.png" group-title="United Kingdom - Entertainment",UK: BBC Two (Wales) HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PAY0APnPtS_jPgFuRZQLOXmbgMBODj2a4MLaewn597UV/ts
+#EXTINF:-1 xui-id="6579" tvg-id="itv1anglia.uk" tvg-name="UK: ITV1 FHD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/8b4d3373f43cd7382ddf1ce90a72eaec.png" group-title="United Kingdom - Entertainment",UK: ITV1 FHD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PAY0APnPtS_jPgFuRZQLOXkwwCjPkEPOBjrISUjU4O3V/ts
+#EXTINF:-1 xui-id="6580" tvg-id="itv1anglia.uk" tvg-name="UK: ITV1 HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/8b4d3373f43cd7382ddf1ce90a72eaec.png" group-title="United Kingdom - Entertainment",UK: ITV1 HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PAY0APnPtS_jPgFuRZQLOXkLVqhsCbezQru4epeVTPhW/ts
+#EXTINF:-1 xui-id="6581" tvg-id="itv1anglia.uk" tvg-name="UK: ITV1 SD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/8b4d3373f43cd7382ddf1ce90a72eaec.png" group-title="United Kingdom - Entertainment",UK: ITV1 SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PAY0APnPtS_jPgFuRZQLOXk5HJSXOGUvQhMNYUqBIWwz/ts
+#EXTINF:-1 xui-id="6582" tvg-id="ITV2HD" tvg-name="UK: ITV2 FHD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/8054570bb35bfe9514d7678c07c52515.png" group-title="United Kingdom - Entertainment",UK: ITV2 FHD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PAY0APnPtS_jPgFuRZQLOXkRLu2fgqdKgCBk07g27yNG/ts
+#EXTINF:-1 xui-id="6583" tvg-id="ITV2HD" tvg-name="UK: ITV2 HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/8054570bb35bfe9514d7678c07c52515.png" group-title="United Kingdom - Entertainment",UK: ITV2 HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PAY0APnPtS_jPgFuRZQLOXlxfRMH7MguuHBAxU--7x61/ts
+#EXTINF:-1 xui-id="6584" tvg-id="ITV2" tvg-name="UK: ITV2 SD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/e6c969a87b8a3a2ea747ff7a32f4b18d.png" group-title="United Kingdom - Entertainment",UK: ITV2 SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PAY0APnPtS_jPgFuRZQLOXnpaxaGtpH1OyOZL9i7eI3F/ts
+#EXTINF:-1 xui-id="6585" tvg-id="ITV2P1" tvg-name="UK: ITV2 +1 SD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/23c259d2be7c7fe9951d45deb6e4a90e.png" group-title="United Kingdom - Entertainment",UK: ITV2 +1 SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PAY0APnPtS_jPgFuRZQLOXkSpS9K8r3yScaWzQ8BI0rM/ts
+#EXTINF:-1 xui-id="6586" tvg-id="ITV3HD" tvg-name="UK: ITV3 HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/a1370421d9a954aa18aaa5e2dc531b5a.png" group-title="United Kingdom - Entertainment",UK: ITV3 HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PAY0APnPtS_jPgFuRZQLOXmh_XHsykIpmife2SuNwyA4/ts
+#EXTINF:-1 xui-id="6587" tvg-id="ITV3P1" tvg-name="UK: ITV3 +1" tvg-logo="http://jg7k3.ifiesta.net:8080/images/46a896a157523246ef1293e1c84bb2ca.png" group-title="United Kingdom - Entertainment",UK: ITV3 +1
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PAY0APnPtS_jPgFuRZQLOXlLvFje6Gjf3tGU6L5BulVk/ts
+#EXTINF:-1 xui-id="6588" tvg-id="ITV4HD" tvg-name="UK: ITV4 HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/0d94ddc3a3b512338a7fadd941b3beee.png" group-title="United Kingdom - Entertainment",UK: ITV4 HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PAY0APnPtS_jPgFuRZQLOXnAL-yz1XY3YZFtEjEtaB30/ts
+#EXTINF:-1 xui-id="6589" tvg-id="ITV4P1" tvg-name="UK: ITV4 +1" tvg-logo="http://jg7k3.ifiesta.net:8080/images/ea9d845e703afd7ede3a4cb8e6139fbe.png" group-title="United Kingdom - Entertainment",UK: ITV4 +1
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PAY0APnPtS_jPgFuRZQLOXkzdE5cvHH3JmTqqkfHnN2W/ts
+#EXTINF:-1 xui-id="6590" tvg-id="ITVBEUK" tvg-name="UK: ITVBe" tvg-logo="http://jg7k3.ifiesta.net:8080/images/31f560aa990edcc48877ca91ca011315.png" group-title="United Kingdom - Entertainment",UK: ITVBe
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PAY0APnPtS_jPgFuRZQLOXmGtAzF5HmxT4EO-9hIYDza/ts
+#EXTINF:-1 xui-id="6591" tvg-id="ITV1AHD" tvg-name="UK: ITV Anglia East HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/15a4fc7562b09c6c8067afaee177e423.png" group-title="United Kingdom - Entertainment",UK: ITV Anglia East HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PAY0APnPtS_jPgFuRZQLOXkmkGod3vodAohZcXvSepKM/ts
+#EXTINF:-1 xui-id="6592" tvg-id="itvborder.uk" tvg-name="UK: ITV Border (England) HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/97ebdc07739e7d2c3d76d64594d5b723.png" group-title="United Kingdom - Entertainment",UK: ITV Border (England) HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PAY0APnPtS_jPgFuRZQLOXmTRD9vdIX0ZBIaKUvX0Jp0/ts
+#EXTINF:-1 xui-id="6593" tvg-id="ITV1CWH" tvg-name="UK: ITV Central West HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/d7f39379c4d5c458cea36b63b472912b.png" group-title="United Kingdom - Entertainment",UK: ITV Central West HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PAY0APnPtS_jPgFuRZQLOXmjVKQwU1khgbxGmRibYjiD/ts
+#EXTINF:-1 xui-id="6594" tvg-id="itvcentralplus.uk" tvg-name="UK: ITV Central West +1" tvg-logo="http://jg7k3.ifiesta.net:8080/images/d7f39379c4d5c458cea36b63b472912b.png" group-title="United Kingdom - Entertainment",UK: ITV Central West +1
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PAY0APnPtS_jPgFuRZQLOXkbO3HA6LJum2hzrRSCLA4S/ts
+#EXTINF:-1 xui-id="6595" tvg-id="itvwales.uk" tvg-name="UK: ITV Cymru Wales" tvg-logo="http://jg7k3.ifiesta.net:8080/images/e0a1954637904fe60c0a736da4ca65ad.png" group-title="United Kingdom - Entertainment",UK: ITV Cymru Wales
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PAY0APnPtS_jPgFuRZQLOXl2O2iokSfU1_aCnWBu_uTo/ts
+#EXTINF:-1 xui-id="6596" tvg-id="itvyorkshire.uk" tvg-name="UK: ITV 1 Yorkshire East" tvg-logo="http://jg7k3.ifiesta.net:8080/images/e6ca03dd3007ab901922008d1528257d.png" group-title="United Kingdom - Entertainment",UK: ITV 1 Yorkshire East
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PAY0APnPtS_jPgFuRZQLOXnf-q9kXfeqwRccsBaHTOQd/ts
+#EXTINF:-1 xui-id="6597" tvg-id="channel4.uk" tvg-name="UK: Channel 4 FHD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/555390d79230754c13db0931f840981f.png" group-title="United Kingdom - Entertainment",UK: Channel 4 FHD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PAY0APnPtS_jPgFuRZQLOXkmdxxoT-HgSoZsGYnLIdER/ts
+#EXTINF:-1 xui-id="6598" tvg-id="ITV1TTH" tvg-name="UK: ITV Tyne Tees HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/d96ef611b4b49b06c9e0e690b702f06a.png" group-title="United Kingdom - Entertainment",UK: ITV Tyne Tees HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PAY0APnPtS_jPgFuRZQLOXkag7R6n6ckQ1lDzvdobrqF/ts
+#EXTINF:-1 xui-id="6599" tvg-id="ITV1WHD" tvg-name="UK: ITV Westcountry HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/9c6db6ca88c9b2eebed934595a7dc213.png" group-title="United Kingdom - Entertainment",UK: ITV Westcountry HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PAY0APnPtS_jPgFuRZQLOXmvtxh95--pRWlJn017vC0i/ts
+#EXTINF:-1 xui-id="6600" tvg-id="channel4.uk" tvg-name="UK: Channel 4 HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/555390d79230754c13db0931f840981f.png" group-title="United Kingdom - Entertainment",UK: Channel 4 HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PIiACt5L7EyBjRECQcFiFRglezot3HAbNXYTg8lBu1ey/ts
+#EXTINF:-1 xui-id="6601" tvg-id="channel4.uk" tvg-name="UK: Channel 4 SD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/555390d79230754c13db0931f840981f.png" group-title="United Kingdom - Entertainment",UK: Channel 4 SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PIiACt5L7EyBjRECQcFiFRh3dB8U2JEeor5Mbo-wTTz8/ts
+#EXTINF:-1 xui-id="6602" tvg-id="channel4plus1.uk" tvg-name="UK: Channel 4 +1 SD" tvg-logo="https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2023-05/Channel-4-%2B1-logo.png?itok=LgPVaL5b" group-title="United Kingdom - Entertainment",UK: Channel 4 +1 SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PIiACt5L7EyBjRECQcFiFRj_4R-8FaROlxTl4Zwo0pT0/ts
+#EXTINF:-1 xui-id="6603" tvg-id="CHNNL5" tvg-name="Channel 5 HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/0e6542e4a1bbdab0fdf82a4f5c158468.png" group-title="United Kingdom - Entertainment",Channel 5 HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PIiACt5L7EyBjRECQcFiFRhREUIMEbnKzWABs6-YejbP/ts
+#EXTINF:-1 xui-id="6604" tvg-id="CHNNL5" tvg-name="Channel 5 SD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/0e6542e4a1bbdab0fdf82a4f5c158468.png" group-title="United Kingdom - Entertainment",Channel 5 SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PIiACt5L7EyBjRECQcFiFRhhJefhHLSeE9vTpoL3PVb1/ts
+#EXTINF:-1 xui-id="6605" tvg-id="channel5plus1.uk" tvg-name="Channel 5 +1 SD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/0e6542e4a1bbdab0fdf82a4f5c158468.png" group-title="United Kingdom - Entertainment",Channel 5 +1 SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PIiACt5L7EyBjRECQcFiFRi50qCcI2roLy1Wwj_4Xtjt/ts
+#EXTINF:-1 xui-id="6606" tvg-id="talktv.uk" tvg-name="UK: TalkTV FHD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/e361b316289cd6d097de70cbc4d951e7.png" group-title="United Kingdom - Entertainment",UK: TalkTV FHD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PIiACt5L7EyBjRECQcFiFRgMGnPMUNjQhPaHbOeaJrLR/ts
+#EXTINF:-1 xui-id="6607" tvg-id="skyatlantic.uk" tvg-name="UK: Sky Atlantic FHD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/f80095e0bb8a87cdb730ba61c22fe884.png" group-title="United Kingdom - Entertainment",UK: Sky Atlantic FHD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PIiACt5L7EyBjRECQcFiFRjfNO7zCaxV0IBpewpWKoHU/ts
+#EXTINF:-1 xui-id="6608" tvg-id="skyatlantic.uk" tvg-name="UK: Sky Atlantic HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/4caefa7636730b5934801844bedb286d.png" group-title="United Kingdom - Entertainment",UK: Sky Atlantic HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PIiACt5L7EyBjRECQcFiFRgMOhhQe047US_XRiMy26Kj/ts
+#EXTINF:-1 xui-id="6609" tvg-id="skyatlantic.uk" tvg-name="UK: Sky Atlantic SD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/4caefa7636730b5934801844bedb286d.png" group-title="United Kingdom - Entertainment",UK: Sky Atlantic SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PIiACt5L7EyBjRECQcFiFRiaUPwZ4jakBv9gIpBt6HM6/ts
+#EXTINF:-1 xui-id="6610" tvg-id="skyatlanticplus1.uk" tvg-name="UK: Sky Atlantic +1 SD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/012a94164e81ef7b47b095da4128db0a.png" group-title="United Kingdom - Entertainment",UK: Sky Atlantic +1 SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PIiACt5L7EyBjRECQcFiFRjBw2S8KM8_VWFl3YKPONvQ/ts
+#EXTINF:-1 xui-id="6611" tvg-id="skyreplay.uk" tvg-name="UK: Sky Replay" tvg-logo="http://jg7k3.ifiesta.net:8080/images/ce5f28f9df1a838fdecf472b9a6e0f53.png" group-title="United Kingdom - Entertainment",UK: Sky Replay
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PIiACt5L7EyBjRECQcFiFRgttTOQUGpDWiO4xiXr7hCE/ts
+#EXTINF:-1 xui-id="6612" tvg-id="skywitness.uk" tvg-name="UK: Sky Witness FHD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/f8dff8649e01815a405e11befe7195da.png" group-title="United Kingdom - Entertainment",UK: Sky Witness FHD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PIiACt5L7EyBjRECQcFiFRjPFnm2aOUPX-Hv8GWI7jkV/ts
+#EXTINF:-1 xui-id="6614" tvg-id="skywitness.uk" tvg-name="UK: Sky Witness SD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/8ca0a634c49f4ebfd2807c8e3cdffe05.png" group-title="United Kingdom - Entertainment",UK: Sky Witness SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PIiACt5L7EyBjRECQcFiFRh-WgANGiTdrFh6obKmjtV4/ts
+#EXTINF:-1 xui-id="6615" tvg-id="skywitnessplus1.uk" tvg-name="UK: Sky Witness +1" tvg-logo="http://jg7k3.ifiesta.net:8080/images/eb502f6e4f1caafe1bd5b14137d93ebe.png" group-title="United Kingdom - Entertainment",UK: Sky Witness +1
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PIiACt5L7EyBjRECQcFiFRi_GmmBER3MmZJECLJGDWVV/ts
+#EXTINF:-1 xui-id="6613" tvg-id="skywitness.uk" tvg-name="UK: Sky Witness HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/f8dff8649e01815a405e11befe7195da.png" group-title="United Kingdom - Entertainment",UK: Sky Witness HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PIiACt5L7EyBjRECQcFiFRgXNXiszdZO4fLfOQCGFI48/ts
+#EXTINF:-1 xui-id="6925" tvg-id="skymax.uk" tvg-name="UK: Sky Max FHD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/3788bb0750882d4af4fc01f4b1daff4a.png" group-title="United Kingdom - Entertainment",UK: Sky Max FHD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PFX54VtWuoOVqS1lAaOispMGsStGuF5r-mfhKSrN832Q/ts
+#EXTINF:-1 xui-id="6926" tvg-id="skymax.uk" tvg-name="UK: Sky Max HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/3788bb0750882d4af4fc01f4b1daff4a.png" group-title="United Kingdom - Entertainment",UK: Sky Max HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PFX54VtWuoOVqS1lAaOispMkiZBE11IYhuklI3rTSwKu/ts
+#EXTINF:-1 xui-id="6927" tvg-id="skymax.uk" tvg-name="UK: Sky Max SD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/2d84a61e5c5deeee0c28bc364b6125e2.png" group-title="United Kingdom - Entertainment",UK: Sky Max SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PFX54VtWuoOVqS1lAaOispOMXHKI4DMi-X-8jvqyHKeK/ts
+#EXTINF:-1 xui-id="6928" tvg-id="skyshowcase.uk" tvg-name="UK: Sky Showcase FHD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/9688f965a5766d22e127dc56ae60e808.png" group-title="United Kingdom - Entertainment",UK: Sky Showcase FHD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PFX54VtWuoOVqS1lAaOispP1jNSjXWjkk96Rjf2D2L0M/ts
+#EXTINF:-1 xui-id="6929" tvg-id="skyshowcase.uk" tvg-name="UK: Sky Showcase HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/9688f965a5766d22e127dc56ae60e808.png" group-title="United Kingdom - Entertainment",UK: Sky Showcase HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PFX54VtWuoOVqS1lAaOispN_Cyuq4vCYmym9p8Dv60tq/ts
+#EXTINF:-1 xui-id="6930" tvg-id="skyshowcase.uk" tvg-name="UK: Sky Showcase SD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/0731f3a3e3d1a9c7fe444e63d9eb8ecd.png" group-title="United Kingdom - Entertainment",UK: Sky Showcase SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PFX54VtWuoOVqS1lAaOispNXuCYTM-9qzQrKudWy6scu/ts
+#EXTINF:-1 xui-id="6931" tvg-id="skyshowcaseplus1.uk" tvg-name="UK: Sky Showcase +1" tvg-logo="http://jg7k3.ifiesta.net:8080/images/1e7d86135e14672ef53b22d1a505d83c.png" group-title="United Kingdom - Entertainment",UK: Sky Showcase +1
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PFX54VtWuoOVqS1lAaOispN4sPEcSIVHbxBlJjcd8n5n/ts
+#EXTINF:-1 xui-id="6932" tvg-id="SKYART1" tvg-name="UK: Sky Arts FHD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/269a33eb9ef700d1294fa92c3d3cee90.png" group-title="United Kingdom - Entertainment",UK: Sky Arts FHD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PFX54VtWuoOVqS1lAaOispNLWcXZBj5BSwmHbkTDUQRH/ts
+#EXTINF:-1 xui-id="6933" tvg-id="SKYART1" tvg-name="UK: Sky Arts HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/269a33eb9ef700d1294fa92c3d3cee90.png" group-title="United Kingdom - Entertainment",UK: Sky Arts HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PFX54VtWuoOVqS1lAaOispP2lAZtgIIqDiRSQa1uxfjq/ts
+#EXTINF:-1 xui-id="6934" tvg-id="SKYART1" tvg-name="UK: Sky Arts SD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/ea7e557c5ee25e7026da0e29aca7608d.png" group-title="United Kingdom - Entertainment",UK: Sky Arts SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PFX54VtWuoOVqS1lAaOispNGvmUv3VNB8PNqwWxl6-tS/ts
+#EXTINF:-1 xui-id="6935" tvg-id="SKCRIME" tvg-name="UK: Sky Crime FHD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/d599e7d6fbcc0c90a0c5e4c138203e05.png" group-title="United Kingdom - Documentaries & Factual Entertainment",UK: Sky Crime FHD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PFX54VtWuoOVqS1lAaOispOL9Sro88ocW2bWbZ0Nbp1l/ts
+#EXTINF:-1 xui-id="6936" tvg-id="SKCRIME" tvg-name="UK: Sky Crime HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/d599e7d6fbcc0c90a0c5e4c138203e05.png" group-title="United Kingdom - Documentaries & Factual Entertainment",UK: Sky Crime HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PFX54VtWuoOVqS1lAaOispOoyX5yI7X3n9ru3nZJKyHa/ts
+#EXTINF:-1 xui-id="6937" tvg-id="SKCRIME" tvg-name="UK: Sky Crime SD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/d599e7d6fbcc0c90a0c5e4c138203e05.png" group-title="United Kingdom - Documentaries & Factual Entertainment",UK: Sky Crime SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PFX54VtWuoOVqS1lAaOispMMMoBXEVNwafVm3WiOhX2I/ts
+#EXTINF:-1 xui-id="6938" tvg-id="SKCRP1" tvg-name="UK: Sky Crime +1 SD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/cd34a942dd60f4d87234782653acdede.png" group-title="United Kingdom - Documentaries & Factual Entertainment",UK: Sky Crime +1 SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PFX54VtWuoOVqS1lAaOispOcXPSQZTY_ddJ--EP7-Qrl/ts
+#EXTINF:-1 xui-id="6939" tvg-id="SKYCOM" tvg-name="UK: Sky Comedy HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/d7f927a2e0503c320ef1c6b3a6902633.png" group-title="United Kingdom - Entertainment",UK: Sky Comedy HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PFX54VtWuoOVqS1lAaOispMtTZTO9-fS1R9QAy8RZc7s/ts
+#EXTINF:-1 xui-id="6940" tvg-id="SKYCOM" tvg-name="UK: Sky Comedy FHD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/d7f927a2e0503c320ef1c6b3a6902633.png" group-title="United Kingdom - Entertainment",UK: Sky Comedy FHD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PFX54VtWuoOVqS1lAaOispMqZ6z3mW1rcAA0ibsISYuO/ts
+#EXTINF:-1 xui-id="6941" tvg-id="SKYCOM" tvg-name="UK: Sky Comedy SD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/7e80a5686fccdb520d660f2f2c8e116a.png" group-title="United Kingdom - Entertainment",UK: Sky Comedy SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PFX54VtWuoOVqS1lAaOispPWDI6FhgtzlU6GLp-jCpbX/ts
+#EXTINF:-1 xui-id="6942" tvg-id="SKYDOC" tvg-name="UK: Sky Documentaries FHD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/7abdb94393836c5a19044b496e8f44cf.png" group-title="United Kingdom - Documentaries & Factual Entertainment",UK: Sky Documentaries FHD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PFX54VtWuoOVqS1lAaOispPZ5-rv7aoMz3b0VAKQ1aaK/ts
+#EXTINF:-1 xui-id="6943" tvg-id="SKYDOC" tvg-name="UK: Sky Documentaries HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/7abdb94393836c5a19044b496e8f44cf.png" group-title="United Kingdom - Documentaries & Factual Entertainment",UK: Sky Documentaries HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PFX54VtWuoOVqS1lAaOispOUMDXR0xDesOrbelU1D8Nx/ts
+#EXTINF:-1 xui-id="6944" tvg-id="SKYDOC" tvg-name="UK: Sky Documentaries SD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/7abdb94393836c5a19044b496e8f44cf.png" group-title="United Kingdom - Documentaries & Factual Entertainment",UK: Sky Documentaries SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PFX54VtWuoOVqS1lAaOispMuTa8jpYxL83jd0_7uJZo2/ts
+#EXTINF:-1 xui-id="6945" tvg-id="SKYNAT" tvg-name="UK: Sky Nature FHD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/0e256c7a9cb376bc934655acc5d0ff5d.png" group-title="United Kingdom - Documentaries & Factual Entertainment",UK: Sky Nature FHD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PFX54VtWuoOVqS1lAaOispOBVWTlEv3ME80BJ7vOzpa9/ts
+#EXTINF:-1 xui-id="6946" tvg-id="SKYNAT" tvg-name="UK: Sky Nature HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/0e256c7a9cb376bc934655acc5d0ff5d.png" group-title="United Kingdom - Documentaries & Factual Entertainment",UK: Sky Nature HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PFX54VtWuoOVqS1lAaOispOvpRG-gE_8aOz0Rz244lmy/ts
+#EXTINF:-1 xui-id="6947" tvg-id="SKYNAT" tvg-name="UK: Sky Nature SD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/0e256c7a9cb376bc934655acc5d0ff5d.png" group-title="United Kingdom - Documentaries & Factual Entertainment",UK: Sky Nature SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PFX54VtWuoOVqS1lAaOispOu4GwGwG5reyXfMDFrGjXh/ts
+#EXTINF:-1 xui-id="6948" tvg-id="SKYNEHD" tvg-name="UK: Sky News HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/d462fafee23c2ef7a965c3d29636e92b.png" group-title="United Kingdom - News",UK: Sky News HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PFX54VtWuoOVqS1lAaOispMBuFI-FvDKXB50UnwYs2vk/ts
+#EXTINF:-1 xui-id="6949" tvg-id="SKYNEHD" tvg-name="UK: Sky News" tvg-logo="http://jg7k3.ifiesta.net:8080/images/d462fafee23c2ef7a965c3d29636e92b.png" group-title="United Kingdom - News",UK: Sky News
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PFX54VtWuoOVqS1lAaOispPUbqoILtlm_Zx-uqSwFchi/ts
+#EXTINF:-1 xui-id="6950" tvg-id="APLANZ" tvg-name="UK: Animal Planet SD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/c39d5d7deacf1da9a30dd4b9d5b5d14b.png" group-title="United Kingdom - Documentaries & Factual Entertainment",UK: Animal Planet SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PFX54VtWuoOVqS1lAaOispNhBP4uk9nDaCwnAUNY0q3Y/ts
+#EXTINF:-1 xui-id="6951" tvg-id="ANIPLN1" tvg-name="UK: Animal Planet +1 SD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/c4c6cf9ddcf92f808b681647b746e3d5.png" group-title="United Kingdom - Documentaries & Factual Entertainment",UK: Animal Planet +1 SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PFX54VtWuoOVqS1lAaOispNdeu2kupIAqSuoD6Vidqxv/ts
+#EXTINF:-1 xui-id="6952" tvg-id="DISCOV" tvg-name="UK: Discovery FHD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/265962835e09d484d52e2baee09036ad.png" group-title="United Kingdom - Documentaries & Factual Entertainment",UK: Discovery FHD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PFX54VtWuoOVqS1lAaOispOzowDuji08BfGozF95RlC9/ts
+#EXTINF:-1 xui-id="6953" tvg-id="DSCHDUK" tvg-name="UK: Discovery HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/265962835e09d484d52e2baee09036ad.png" group-title="United Kingdom - Documentaries & Factual Entertainment",UK: Discovery HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PFX54VtWuoOVqS1lAaOispOv2ZUM4NWqU9j5nqAfWVrh/ts
+#EXTINF:-1 xui-id="6954" tvg-id="DISCOV" tvg-name="UK: Discovery SD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/265962835e09d484d52e2baee09036ad.png" group-title="United Kingdom - Documentaries & Factual Entertainment",UK: Discovery SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PFX54VtWuoOVqS1lAaOispOJChrL5p2_dVrZgQZO_sTN/ts
+#EXTINF:-1 xui-id="6955" tvg-id="DISC1" tvg-name="UK: Discovery +1 SD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/43e069d83e9182aac6560c52731feede.png" group-title="United Kingdom - Documentaries & Factual Entertainment",UK: Discovery +1 SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PFX54VtWuoOVqS1lAaOispPdL_T2Jpd8jDp3XW--W86Q/ts
+#EXTINF:-1 xui-id="6956" tvg-id="DISHIST" tvg-name="UK: Discovery History SD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/6fd533453eafacfc572cfac7f9519dcc.png" group-title="United Kingdom - Documentaries & Factual Entertainment",UK: Discovery History SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PFX54VtWuoOVqS1lAaOispPci5fkJgDW9bvQRj3OcCYT/ts
+#EXTINF:-1 xui-id="6957" tvg-id="DISHIS1" tvg-name="UK: Discovery History +1 SD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/59bf2d86dab7efc8bafc45e052e95567.png" group-title="United Kingdom - Documentaries & Factual Entertainment",UK: Discovery History +1 SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PFX54VtWuoOVqS1lAaOispP8Z_ljrCJxXwZHG1-iIKCj/ts
+#EXTINF:-1 xui-id="6958" tvg-id="DITURBO" tvg-name="UK: Discovery Turbo SD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/6aa960ec0b1acb1035290807e9e0ceae.png" group-title="United Kingdom - Documentaries & Factual Entertainment",UK: Discovery Turbo SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PFX54VtWuoOVqS1lAaOispMj-EAnURc_ECJoh5wdjKTC/ts
+#EXTINF:-1 xui-id="6959" tvg-id="DISTUP1" tvg-name="UK: Discovery Turbo +1 SD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/6ac657dc5a998a938cc5b35dbbb60ac4.png" group-title="United Kingdom - Documentaries & Factual Entertainment",UK: Discovery Turbo +1 SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PFX54VtWuoOVqS1lAaOispO2JOFT-CkuEe0ru7gpAh9o/ts
+#EXTINF:-1 xui-id="6960" tvg-id="DISSCI" tvg-name="UK: Discovery Science SD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/660bb3e7bb56bbeb8fa7e9f7b2c0cc40.png" group-title="United Kingdom - Documentaries & Factual Entertainment",UK: Discovery Science SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PFX54VtWuoOVqS1lAaOispOMM5cQYQnA2aUqU9Sg2Ggf/ts
+#EXTINF:-1 xui-id="6961" tvg-id="DISSCI1" tvg-name="UK: Discovery Science +1 SD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/b0bb9391bd65f6994a591d72e468fade.jpg" group-title="United Kingdom - Documentaries & Factual Entertainment",UK: Discovery Science +1 SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PFX54VtWuoOVqS1lAaOispMDmUXahsFeGgP-vlYvAgAi/ts
+#EXTINF:-1 xui-id="6962" tvg-id="HISTEUH" tvg-name="UK: History FHD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/ad4012c1200f366bc458f1a84ae10a80.png" group-title="United Kingdom - Documentaries & Factual Entertainment",UK: History FHD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PFX54VtWuoOVqS1lAaOispMQJJdJmiTf8nFefQyG2TyH/ts
+#EXTINF:-1 xui-id="6963" tvg-id="HISTEUH" tvg-name="UK: History HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/ad4012c1200f366bc458f1a84ae10a80.png" group-title="United Kingdom - Documentaries & Factual Entertainment",UK: History HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PFX54VtWuoOVqS1lAaOispNlSVkqzjog4wlaRF_h0S62/ts
+#EXTINF:-1 xui-id="6964" tvg-id="HISTEUH" tvg-name="UK: History SD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/ad4012c1200f366bc458f1a84ae10a80.png" group-title="United Kingdom - Documentaries & Factual Entertainment",UK: History SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PFX54VtWuoOVqS1lAaOispNIomdbc1iGHSEKWLg7ofa8/ts
+#EXTINF:-1 xui-id="6965" tvg-id="HIST2HD" tvg-name="UK: Sky History 2 FHD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/23e346dca9d824626c37cee9a15531a3.png" group-title="United Kingdom - Documentaries & Factual Entertainment",UK: Sky History 2 FHD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PFX54VtWuoOVqS1lAaOispPnADCtTPbEYdb0vbuzyUPv/ts
+#EXTINF:-1 xui-id="6966" tvg-id="HIST2HD" tvg-name="UK: Sky History 2 HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/23e346dca9d824626c37cee9a15531a3.png" group-title="United Kingdom - Documentaries & Factual Entertainment",UK: Sky History 2 HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PFX54VtWuoOVqS1lAaOispOpTR0cA1c9h8GywjCyscAw/ts
+#EXTINF:-1 xui-id="6967" tvg-id="HIST2" tvg-name="UK: Sky History 2 SD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/23e346dca9d824626c37cee9a15531a3.png" group-title="United Kingdom - Documentaries & Factual Entertainment",UK: Sky History 2 SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PFX54VtWuoOVqS1lAaOispOeFKjSaReMJIQFLlDTxyQY/ts
+#EXTINF:-1 xui-id="6968" tvg-id="NATGHDG" tvg-name="UK: National Geographic FHD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/6f83a6bf1685e17b8ff91dd54029383a.png" group-title="United Kingdom - Documentaries & Factual Entertainment",UK: National Geographic FHD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PFX54VtWuoOVqS1lAaOispPOl32wgoEOWOi1TFX8Z12c/ts
+#EXTINF:-1 xui-id="6969" tvg-id="NATGHDG" tvg-name="UK: National Geographic HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/6f83a6bf1685e17b8ff91dd54029383a.png" group-title="United Kingdom - Documentaries & Factual Entertainment",UK: National Geographic HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PFX54VtWuoOVqS1lAaOispNMFKTsTGYEVVHUHiCrKhI2/ts
+#EXTINF:-1 xui-id="6970" tvg-id="NATGSDG" tvg-name="UK: National Geographic SD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/77cbdb969d971dd4b9b8ea4fd82d42cb.png" group-title="United Kingdom - Documentaries & Factual Entertainment",UK: National Geographic SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PFX54VtWuoOVqS1lAaOispPzfCstZSb4u-1caBosUZuF/ts
+#EXTINF:-1 xui-id="6971" tvg-id="NATG1" tvg-name="UK: National Geographic +1 SD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/d43f05e8085d23a6b4d5a8de6632cd7b.png" group-title="United Kingdom - Documentaries & Factual Entertainment",UK: National Geographic +1 SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PFX54VtWuoOVqS1lAaOispMI3123sgJZGXwbdpUOx8IB/ts
+#EXTINF:-1 xui-id="6972" tvg-id="NGWDHD" tvg-name="UK: Nat Geo Wild FHD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/fdd7315adde8b8777ea880cac95f4d3f.png" group-title="United Kingdom - Documentaries & Factual Entertainment",UK: Nat Geo Wild FHD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PFX54VtWuoOVqS1lAaOispORyle5J2nngdHLx_UxSZpl/ts
+#EXTINF:-1 xui-id="6973" tvg-id="NGWDHD" tvg-name="UK: Nat Geo Wild HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/fdd7315adde8b8777ea880cac95f4d3f.png" group-title="United Kingdom - Documentaries & Factual Entertainment",UK: Nat Geo Wild HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PFX54VtWuoOVqS1lAaOispO1ND_h3BAPcMxSLKrXGLTj/ts
+#EXTINF:-1 xui-id="6974" tvg-id="NGWDHD" tvg-name="UK: Nat Geo Wild SD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/21e7b0fb31dfac98831d0409aedb4312.png" group-title="United Kingdom - Documentaries & Factual Entertainment",UK: Nat Geo Wild SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PFX54VtWuoOVqS1lAaOispN8VgUfl4RD-5lvznN3VpR8/ts
+#EXTINF:-1 xui-id="6975" tvg-id="CIHD" tvg-name="UK: Crime + Investigation FHD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/001b3684b81e00d77b233add358cd5d4.png" group-title="United Kingdom - Documentaries & Factual Entertainment",UK: Crime + Investigation FHD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PFX54VtWuoOVqS1lAaOispOaRYPFHlZeCBmuMy9IO3Ne/ts
+#EXTINF:-1 xui-id="6976" tvg-id="CIHD" tvg-name="UK: Crime + Investigation HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/001b3684b81e00d77b233add358cd5d4.png" group-title="United Kingdom - Documentaries & Factual Entertainment",UK: Crime + Investigation HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PFX54VtWuoOVqS1lAaOispNPtsA2_gP8zAbK29QPGrr5/ts
+#EXTINF:-1 xui-id="6977" tvg-id="CIHD" tvg-name="UK: Crime + Investigation SD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/001b3684b81e00d77b233add358cd5d4.png" group-title="United Kingdom - Documentaries & Factual Entertainment",UK: Crime + Investigation SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PFX54VtWuoOVqS1lAaOispNEpNfcSFGFb0NwVuEI2ORY/ts
+#EXTINF:-1 xui-id="6978" tvg-id="CINP1" tvg-name="UK: Crime + Investigation +1 SD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/001b3684b81e00d77b233add358cd5d4.png" group-title="United Kingdom - Documentaries & Factual Entertainment",UK: Crime + Investigation +1 SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PFX54VtWuoOVqS1lAaOispPoTrs6giGN6bovfmGWdfEb/ts
+#EXTINF:-1 xui-id="6979" tvg-id="SCINACH" tvg-name="UK: Sky Cinema Action FHD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/cfbaba4d4307d573a296c68994a64e49.png" group-title="United Kingdom - Movies",UK: Sky Cinema Action FHD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PFX54VtWuoOVqS1lAaOispM7xyho_Sr4Uv5tzl-mSQb9/ts
+#EXTINF:-1 xui-id="6980" tvg-id="SCACTHD" tvg-name="UK: Sky Cinema Action HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/cfbaba4d4307d573a296c68994a64e49.png" group-title="United Kingdom - Movies",UK: Sky Cinema Action HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PFX54VtWuoOVqS1lAaOispMBToCCwfUQhXXL2bw9VBHj/ts
+#EXTINF:-1 xui-id="6981" tvg-id="SCINACT" tvg-name="UK: Sky Cinema Action SD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/cfbaba4d4307d573a296c68994a64e49.png" group-title="United Kingdom - Movies",UK: Sky Cinema Action SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PFX54VtWuoOVqS1lAaOispMgCUo0Q_ctOJav3ns4CR54/ts
+#EXTINF:-1 xui-id="6982" tvg-id="SCINANI" tvg-name="UK: Sky Cinema Animation FHD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/add19eb9d3b281fa08ec48562df7a89a.png" group-title="United Kingdom - Movies",UK: Sky Cinema Animation FHD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PFX54VtWuoOVqS1lAaOispOxGekY_ASnnddyrcIWvQ-1/ts
+#EXTINF:-1 xui-id="6983" tvg-id="SCINANI" tvg-name="UK: Sky Cinema Animation HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/add19eb9d3b281fa08ec48562df7a89a.png" group-title="United Kingdom - Movies",UK: Sky Cinema Animation HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PFX54VtWuoOVqS1lAaOispOfFOAbnOemP2SibPRiktsv/ts
+#EXTINF:-1 xui-id="6984" tvg-id="SCANISD" tvg-name="UK: Sky Cinema Animation SD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/add19eb9d3b281fa08ec48562df7a89a.png" group-title="United Kingdom - Movies",UK: Sky Cinema Animation SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PFX54VtWuoOVqS1lAaOispOF3Fwq7i22H_26VWwRQOuL/ts
+#EXTINF:-1 xui-id="6985" tvg-id="SCINCOH" tvg-name="UK: Sky Cinema Comedy FHD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/5ca38c233d7804dc148a4f56165974bf.png" group-title="United Kingdom - Movies",UK: Sky Cinema Comedy FHD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PFX54VtWuoOVqS1lAaOispOpjRaJwA13Dh0Y-rYf8CtV/ts
+#EXTINF:-1 xui-id="6986" tvg-id="SCINCOH" tvg-name="UK: Sky Cinema Comedy HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/5ca38c233d7804dc148a4f56165974bf.png" group-title="United Kingdom - Movies",UK: Sky Cinema Comedy HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PFX54VtWuoOVqS1lAaOispMD654C10YxCA5aR-RokIJZ/ts
+#EXTINF:-1 xui-id="6987" tvg-id="SCINCOM" tvg-name="UK: Sky Cinema Comedy SD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/5ca38c233d7804dc148a4f56165974bf.png" group-title="United Kingdom - Movies",UK: Sky Cinema Comedy SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PFX54VtWuoOVqS1lAaOispP-9yM6XTMIRalJAD6BaY0-/ts
+#EXTINF:-1 xui-id="6988" tvg-id="SCINDRA" tvg-name="UK: Sky Cinema Drama FHD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/99e6e30da1d78533182bbf75056639b8.png" group-title="United Kingdom - Movies",UK: Sky Cinema Drama FHD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PFX54VtWuoOVqS1lAaOispO7QLRIEzcs6IEOiVPrRU_r/ts
+#EXTINF:-1 xui-id="6989" tvg-id="SCINDRA" tvg-name="UK: Sky Cinema Drama HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/99e6e30da1d78533182bbf75056639b8.png" group-title="United Kingdom - Movies",UK: Sky Cinema Drama HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PFX54VtWuoOVqS1lAaOispOLefZi-Qr1mmUFfxX-U_iv/ts
+#EXTINF:-1 xui-id="6990" tvg-id="SCINDRA" tvg-name="UK: Sky Cinema Drama SD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/d35279b03321dccb9a692f0054077228.png" group-title="United Kingdom - Movies",UK: Sky Cinema Drama SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PFX54VtWuoOVqS1lAaOispMsvIs-T1u8CCvoD0Wz8Tx6/ts
+#EXTINF:-1 xui-id="6991" tvg-id="SYFAGHD" tvg-name="UK: Sky Cinema Family FHD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/759530a064747b3dc7c69288c4b54bc3.png" group-title="United Kingdom - Movies",UK: Sky Cinema Family FHD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PFX54VtWuoOVqS1lAaOispPlIhWMak5CZlq4TjeuCjwZ/ts
+#EXTINF:-1 xui-id="6992" tvg-id="SKYFAMG" tvg-name="UK: Sky Cinema Family HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/759530a064747b3dc7c69288c4b54bc3.png" group-title="United Kingdom - Movies",UK: Sky Cinema Family HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PFX54VtWuoOVqS1lAaOispNI2DH7EqX0SSWAaDQAg8i5/ts
+#EXTINF:-1 xui-id="6993" tvg-id="SKYFAMG" tvg-name="UK: Sky Cinema Family SD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/759530a064747b3dc7c69288c4b54bc3.png" group-title="United Kingdom - Movies",UK: Sky Cinema Family SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PFX54VtWuoOVqS1lAaOispPLr80nT9sZBLW6tGV-xuIJ/ts
+#EXTINF:-1 xui-id="6994" tvg-id="SCINGRH" tvg-name="UK: Sky Cinema Greats FHD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/c3e8c450edc6dc05012bfd0fdc9cbe6a.png" group-title="United Kingdom - Movies",UK: Sky Cinema Greats FHD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PFX54VtWuoOVqS1lAaOispP2iY2RYBbtT0vLsfbqYrTH/ts
+#EXTINF:-1 xui-id="6995" tvg-id="SCINGRH" tvg-name="UK: Sky Cinema Greats HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/c3e8c450edc6dc05012bfd0fdc9cbe6a.png" group-title="United Kingdom - Movies",UK: Sky Cinema Greats HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PFX54VtWuoOVqS1lAaOispOOy49tOmEv80Ow1ls-Qz1X/ts
+#EXTINF:-1 xui-id="6996" tvg-id="SCINGRH" tvg-name="UK: Sky Cinema Greats SD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/c3e8c450edc6dc05012bfd0fdc9cbe6a.png" group-title="United Kingdom - Movies",UK: Sky Cinema Greats SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PFX54VtWuoOVqS1lAaOispO_tk3QgocvJxq-kcljB4ya/ts
+#EXTINF:-1 xui-id="6997" tvg-id="SCINHTH" tvg-name="UK: Sky Cinema Hits FHD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/352903a675c4b2f529a9963b82243129.png" group-title="United Kingdom - Movies",UK: Sky Cinema Hits FHD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PFX54VtWuoOVqS1lAaOispPEDi0A_96xG0Ce-dekVw9A/ts
+#EXTINF:-1 xui-id="6998" tvg-id="SCINHTH" tvg-name="UK: Sky Cinema Hits HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/352903a675c4b2f529a9963b82243129.png" group-title="United Kingdom - Movies",UK: Sky Cinema Hits HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PFX54VtWuoOVqS1lAaOispP1qCdLMplOdP4uIQW2i1Bu/ts
+#EXTINF:-1 xui-id="6999" tvg-id="SCINHTH" tvg-name="UK: Sky Cinema Hits SD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/11c3fd83c3a9caa8927d277476a28430.png" group-title="United Kingdom - Movies",UK: Sky Cinema Hits SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PFX54VtWuoOVqS1lAaOispOZMztyRTBPD15s_Zig_WTo/ts
+#EXTINF:-1 xui-id="7000" tvg-id="SCINPRH" tvg-name="UK: Sky Cinema Premiere FHD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/d2dd5e3d5d3bbbbf7289fdd3f6908137.png" group-title="United Kingdom - Movies",UK: Sky Cinema Premiere FHD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBmBTlw50hjvfvkbsvvpEnTnaLsIUrzXo7L0y1zRlR3Q/ts
+#EXTINF:-1 xui-id="7001" tvg-id="SCINPRH" tvg-name="UK: Sky Cinema Premiere HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/d2dd5e3d5d3bbbbf7289fdd3f6908137.png" group-title="United Kingdom - Movies",UK: Sky Cinema Premiere HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBmBTlw50hjvfvkbsvvpEnRfi2lS7Gcvfrx1H65UKQRs/ts
+#EXTINF:-1 xui-id="7002" tvg-id="SCINPRH" tvg-name="UK: Sky Cinema Premiere SD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/85a2d9abadca11e3d6f564da13db13b0.png" group-title="United Kingdom - Movies",UK: Sky Cinema Premiere SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBmBTlw50hjvfvkbsvvpEnQOXkxoC8HuJhMgSjl6ezZ3/ts
+#EXTINF:-1 xui-id="7003" tvg-id="skypremiereplus1.uk" tvg-name="UK: Sky Cinema Premiere +1 SD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/9643c07d0dc511ab4d5711ad0599ec07.png" group-title="United Kingdom - Movies",UK: Sky Cinema Premiere +1 SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBmBTlw50hjvfvkbsvvpEnThMmXx3e49TH1wQzBJ7jeM/ts
+#EXTINF:-1 xui-id="7004" tvg-id="SCINSHD" tvg-name="UK: Sky Cinema Sci Fi & Horror HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/4a9d88644e87058edf3b2bef5dbc8b72.png" group-title="United Kingdom - Movies",UK: Sky Cinema Sci Fi & Horror HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBmBTlw50hjvfvkbsvvpEnTZBaucOok7nr3FWtSX32uk/ts
+#EXTINF:-1 xui-id="7005" tvg-id="SCINSHD" tvg-name="UK: Sky Cinema Sci Fi & Horror FHD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/c7c7d9d62a0839c30aa53d27a5fd4440.png" group-title="United Kingdom - Movies",UK: Sky Cinema Sci Fi & Horror FHD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBmBTlw50hjvfvkbsvvpEnRMiyAg5Xx_5O3c2bcKuVyd/ts
+#EXTINF:-1 xui-id="7006" tvg-id="SCINSHD" tvg-name="UK: Sky Cinema Sci Fi & Horror SD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/4a9d88644e87058edf3b2bef5dbc8b72.png" group-title="United Kingdom - Movies",UK: Sky Cinema Sci Fi & Horror SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBmBTlw50hjvfvkbsvvpEnQNqaqK-hLl7PVJu7uh4YRO/ts
+#EXTINF:-1 xui-id="7007" tvg-id="SCINSEH" tvg-name="UK: Sky Cinema Select FHD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/1547152ad88139d0fb1f193155835598.png" group-title="United Kingdom - Movies",UK: Sky Cinema Select FHD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBmBTlw50hjvfvkbsvvpEnQCjmXfLcLqni3EZgc_P2Xv/ts
+#EXTINF:-1 xui-id="7008" tvg-id="SCINSEH" tvg-name="UK: Sky Cinema Select HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/1547152ad88139d0fb1f193155835598.png" group-title="United Kingdom - Movies",UK: Sky Cinema Select HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBmBTlw50hjvfvkbsvvpEnQvNQjrDBIEYKZ1kAedwXCp/ts
+#EXTINF:-1 xui-id="7009" tvg-id="SCINSEH" tvg-name="UK: Sky Cinema Select SD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/a08360016a8c796d4f335aa85b04907f.png" group-title="United Kingdom - Movies",UK: Sky Cinema Select SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBmBTlw50hjvfvkbsvvpEnQJNFnxQayEMZ9XcFAuOwj2/ts
+#EXTINF:-1 xui-id="7010" tvg-id="SCINTHH" tvg-name="UK: Sky Cinema Thriller FHD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/6b68380c288bbcdbe368d317ca34d991.png" group-title="United Kingdom - Movies",UK: Sky Cinema Thriller FHD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBmBTlw50hjvfvkbsvvpEnQ2Y0csSLEW1Rrhqv_pOpft/ts
+#EXTINF:-1 xui-id="7011" tvg-id="SCINTHH" tvg-name="UK: Sky Cinema Thriller HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/6b68380c288bbcdbe368d317ca34d991.png" group-title="United Kingdom - Movies",UK: Sky Cinema Thriller HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBmBTlw50hjvfvkbsvvpEnSaAGYtteRCovsceSVN_tZT/ts
+#EXTINF:-1 xui-id="7012" tvg-id="SCINTHH" tvg-name="UK: Sky Cinema Thriller SD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/94af374c408d6b976850328370ac89b6.png" group-title="United Kingdom - Movies",UK: Sky Cinema Thriller SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBmBTlw50hjvfvkbsvvpEnTBJ2l4WgY8-1gtEKAvH8EE/ts
+#EXTINF:-1 xui-id="7013" tvg-id="FFOURHD" tvg-name="UK: Film4 FHD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/402006f85eda06cbd5889843eb4fb67c.png" group-title="United Kingdom - Movies",UK: Film4 FHD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBmBTlw50hjvfvkbsvvpEnS3M2_Chxd_zVF_KmzwIzdy/ts
+#EXTINF:-1 xui-id="7014" tvg-id="FILM41" tvg-name="UK: Film4 +1 SD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/9287df980b7765798efd76c9e8163326.png" group-title="United Kingdom - Movies",UK: Film4 +1 SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBmBTlw50hjvfvkbsvvpEnQQyQcPY6QyKP4tSPMCpUhY/ts
+#EXTINF:-1 xui-id="7015" tvg-id="SSPOME" tvg-name="UK: Sky Sports Main Event FHD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/d3ca159509092945e5ab3f05a5ff8d5c.png" group-title="United Kingdom - Sports",UK: Sky Sports Main Event FHD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBmBTlw50hjvfvkbsvvpEnT-7-LOZKp4rm6u-K8QM2af/ts
+#EXTINF:-1 xui-id="7016" tvg-id="SSPOME" tvg-name="UK: Sky Sports Main Event HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/d3ca159509092945e5ab3f05a5ff8d5c.png" group-title="United Kingdom - Sports",UK: Sky Sports Main Event HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBmBTlw50hjvfvkbsvvpEnREQQZD14mYF-grGjR5OggT/ts
+#EXTINF:-1 xui-id="7017" tvg-id="SSPOME" tvg-name="UK: Sky Sports Main Event SD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/45e790aea8c38de2df526a59db9f29ec.png" group-title="United Kingdom - Sports",UK: Sky Sports Main Event SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBmBTlw50hjvfvkbsvvpEnQDJ4hWoMyMQ0MsBH9WkTLI/ts
+#EXTINF:-1 xui-id="7018" tvg-id="SSPOFB" tvg-name="UK: Sky Sports Football FHD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/29eff9b0e8d9b380fecf5fe48bdc5b52.png" group-title="United Kingdom - Sports",UK: Sky Sports Football FHD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBmBTlw50hjvfvkbsvvpEnRTmYne87O8I5u5FMeUsePs/ts
+#EXTINF:-1 xui-id="7019" tvg-id="SSPOFB" tvg-name="UK: Sky Sports Football HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/29eff9b0e8d9b380fecf5fe48bdc5b52.png" group-title="United Kingdom - Sports",UK: Sky Sports Football HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBmBTlw50hjvfvkbsvvpEnSQheZC8W3hjojxodDQtMhX/ts
+#EXTINF:-1 xui-id="7020" tvg-id="SSPOFB" tvg-name="UK: Sky Sports Football SD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/8f056a791d8fd664983eb8f2ac7e73f7.png" group-title="United Kingdom - Sports",UK: Sky Sports Football SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBmBTlw50hjvfvkbsvvpEnT9cCWSejLzsMr-b9DhgfpW/ts
+#EXTINF:-1 xui-id="7021" tvg-id="SSPOAR" tvg-name="UK: Sky Sports Arena FHD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/002b7492061bb7a4bdc1c011b555268d.png" group-title="United Kingdom - Sports",UK: Sky Sports Arena FHD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBmBTlw50hjvfvkbsvvpEnRmJiY5_kFmMvlDkMHznVfK/ts
+#EXTINF:-1 xui-id="7022" tvg-id="SSPOAR" tvg-name="UK: Sky Sports Arena HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/002b7492061bb7a4bdc1c011b555268d.png" group-title="United Kingdom - Sports",UK: Sky Sports Arena HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBmBTlw50hjvfvkbsvvpEnSMwAtIuyBdrX79aNWlCrWI/ts
+#EXTINF:-1 xui-id="7023" tvg-id="SSPOAR" tvg-name="UK: Sky Sports Arena SD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/4f37e6a9e238680c0502c18753ef4eeb.png" group-title="United Kingdom - Sports",UK: Sky Sports Arena SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBmBTlw50hjvfvkbsvvpEnQHKdux1eZ-v0b8u_t_v_jz/ts
+#EXTINF:-1 xui-id="7024" tvg-id="SSPOCR" tvg-name="UK: Sky Sports Cricket FHD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/17c7e066d9a3a4d5dd7f3e71776d73b6.png" group-title="United Kingdom - Sports",UK: Sky Sports Cricket FHD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBmBTlw50hjvfvkbsvvpEnQFa2bwljqWbgk__ecGfHTY/ts
+#EXTINF:-1 xui-id="7025" tvg-id="SSPOCR" tvg-name="UK: Sky Sports Cricket HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/617212122de8370826c7d72336274138.png" group-title="United Kingdom - Sports",UK: Sky Sports Cricket HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBmBTlw50hjvfvkbsvvpEnREUsKpOiDyGypA8Qv90Q_T/ts
+#EXTINF:-1 xui-id="7026" tvg-id="SSPOCR" tvg-name="UK: Sky Sports Cricket SD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/617212122de8370826c7d72336274138.png" group-title="United Kingdom - Sports",UK: Sky Sports Cricket SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBmBTlw50hjvfvkbsvvpEnR42HaVvr0CIA-GCoDZ6vIf/ts
+#EXTINF:-1 xui-id="7027" tvg-id="skysportsf1.uk" tvg-name="UK: Sky Sports Sports F1 FHD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/e926037a54bcdd3f5fb6b3c48087c092.png" group-title="United Kingdom - Sports",UK: Sky Sports Sports F1 FHD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBmBTlw50hjvfvkbsvvpEnT2RjSEFLGgvNNwb_sopNYE/ts
+#EXTINF:-1 xui-id="7028" tvg-id="skysportsf1.uk" tvg-name="UK: Sky Sports Sports F1 HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/e926037a54bcdd3f5fb6b3c48087c092.png" group-title="United Kingdom - Sports",UK: Sky Sports Sports F1 HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBmBTlw50hjvfvkbsvvpEnTm6oUZOZv82W9IzF1YhTTh/ts
+#EXTINF:-1 xui-id="7029" tvg-id="skysportsf1.uk" tvg-name="UK: Sky Sports Sports F1 SD" tvg-logo="" group-title="United Kingdom - Sports",UK: Sky Sports Sports F1 SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBmBTlw50hjvfvkbsvvpEnQraU-CdsU1WxJo4qB16cWI/ts
+#EXTINF:-1 xui-id="7030" tvg-id="SSPOGO" tvg-name="UK: Sky Sports Golf FHD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/bdd00473e0513d2ecb2444c6303c4647.png" group-title="United Kingdom - Sports",UK: Sky Sports Golf FHD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBmBTlw50hjvfvkbsvvpEnR4eIM72PfABqtLCCw9bGZ9/ts
+#EXTINF:-1 xui-id="7031" tvg-id="SSPOGO" tvg-name="UK: Sky Sports Golf HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/bdd00473e0513d2ecb2444c6303c4647.png" group-title="United Kingdom - Sports",UK: Sky Sports Golf HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBmBTlw50hjvfvkbsvvpEnQEctiylwNTX-N9PbUzTJT5/ts
+#EXTINF:-1 xui-id="7032" tvg-id="SSPOGO" tvg-name="UK: Sky Sports Golf SD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/a87ec9f7b5daecbd216716ba5ce19f53.png" group-title="United Kingdom - Sports",UK: Sky Sports Golf SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBmBTlw50hjvfvkbsvvpEnSvCb5FDQUhBut5U3-n8PdK/ts
+#EXTINF:-1 xui-id="7033" tvg-id="SSPOMXS" tvg-name="UK: Sky Sports Mix FHD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/c0e26dfd5654e61426301d8a2190959c.png" group-title="United Kingdom - Sports",UK: Sky Sports Mix FHD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBmBTlw50hjvfvkbsvvpEnR8vQHOj0omSqOqNuxYyn8J/ts
+#EXTINF:-1 xui-id="7034" tvg-id="SSPOMXS" tvg-name="UK: Sky Sports Mix HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/c0e26dfd5654e61426301d8a2190959c.png" group-title="United Kingdom - Sports",UK: Sky Sports Mix HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBmBTlw50hjvfvkbsvvpEnQRd-JNuAm_axsA4FTZrkF-/ts
+#EXTINF:-1 xui-id="7035" tvg-id="SSPOMXS" tvg-name="UK: Sky Sports Mix SD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/694fe563af855ffd5bd1ab17b3d9620c.png" group-title="United Kingdom - Sports",UK: Sky Sports Mix SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBmBTlw50hjvfvkbsvvpEnTwCfdk1cyImKjntu1pm1W_/ts
+#EXTINF:-1 xui-id="7036" tvg-id="SSPOAC" tvg-name="UK: Sky Sports Action FHD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/944991bf56795468794e8269b870be78.png" group-title="United Kingdom - Sports",UK: Sky Sports Action FHD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBmBTlw50hjvfvkbsvvpEnR2HFJSsMVHmriSQgLzI-h-/ts
+#EXTINF:-1 xui-id="7037" tvg-id="SSPOAC" tvg-name="UK: Sky Sports Action HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/944991bf56795468794e8269b870be78.png" group-title="United Kingdom - Sports",UK: Sky Sports Action HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBmBTlw50hjvfvkbsvvpEnTrlQuCLju4T5ZG0MuVigjo/ts
+#EXTINF:-1 xui-id="7038" tvg-id="SSPOAC" tvg-name="UK: Sky Sports Action SD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/577b54f30025754dd5a049c6438aed94.png" group-title="United Kingdom - Sports",UK: Sky Sports Action SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBmBTlw50hjvfvkbsvvpEnREOn0YtyrWfu5Zlv-5sFbY/ts
+#EXTINF:-1 xui-id="7039" tvg-id="SSPONE" tvg-name="UK: Sky Sports News FHD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/409b2c3efdfa3bd58291c860a5733083.png" group-title="United Kingdom - Sports",UK: Sky Sports News FHD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBmBTlw50hjvfvkbsvvpEnQ7W4OsTA3gQJAVLOLrzhEP/ts
+#EXTINF:-1 xui-id="7040" tvg-id="SSPONE" tvg-name="UK: Sky Sports News HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/409b2c3efdfa3bd58291c860a5733083.png" group-title="United Kingdom - Sports",UK: Sky Sports News HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBmBTlw50hjvfvkbsvvpEnRq1Kz7C3kFXtcIArXPiIa4/ts
+#EXTINF:-1 xui-id="7041" tvg-id="SSPONE" tvg-name="UK: Sky Sports News SD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/1374cd5246e293f2cb1826a79f0b7502.png" group-title="United Kingdom - Sports",UK: Sky Sports News SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBmBTlw50hjvfvkbsvvpEnRNtFTDh8XYJsiCDUUVxY7C/ts
+#EXTINF:-1 xui-id="7042" tvg-id="skysportspremiereleague.uk" tvg-name="UK: Sky Sports Prem FHD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/6a8e57b7da3b79677f8cdc614b537040.png" group-title="United Kingdom - Sports",UK: Sky Sports Prem FHD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBmBTlw50hjvfvkbsvvpEnRojUG07eJowQh8c0qjx_yX/ts
+#EXTINF:-1 xui-id="7043" tvg-id="skysportspremiereleague.uk" tvg-name="UK: Sky Sports Prem HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/6a8e57b7da3b79677f8cdc614b537040.png" group-title="United Kingdom - Sports",UK: Sky Sports Prem HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBmBTlw50hjvfvkbsvvpEnTZeDDNqoNQdzUA-OIF_ugE/ts
+#EXTINF:-1 xui-id="7044" tvg-id="" tvg-name="UK: Sky Sports Prem SD" tvg-logo="" group-title="United Kingdom - Sports",UK: Sky Sports Prem SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBmBTlw50hjvfvkbsvvpEnQ_lLW1wVXmO3BuIQeLEQNQ/ts
+#EXTINF:-1 xui-id="7045" tvg-id="SSPORAC" tvg-name="UK: Sky Sports Racing FHD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/dda5e1363568c396221569a281676df3.png" group-title="United Kingdom - Sports",UK: Sky Sports Racing FHD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBmBTlw50hjvfvkbsvvpEnSeZRWagnO4vtfbTWU4WfjY/ts
+#EXTINF:-1 xui-id="7046" tvg-id="SSPORAC" tvg-name="UK: Sky Sports Racing HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/dda5e1363568c396221569a281676df3.png" group-title="United Kingdom - Sports",UK: Sky Sports Racing HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBmBTlw50hjvfvkbsvvpEnQupMUBKg3QwSTTURQ2Yrat/ts
+#EXTINF:-1 xui-id="7047" tvg-id="SSPORAC" tvg-name="UK: Sky Sports Racing SD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/f6642cfd7c9eec945a8e6da3a1e51286.png" group-title="United Kingdom - Sports",UK: Sky Sports Racing SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBmBTlw50hjvfvkbsvvpEnQG0TkljMf3fA0aYpMIutgG/ts
+#EXTINF:-1 xui-id="7048" tvg-id="" tvg-name="UK: BT Sport Ultimate 4K HDR 50FPS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3Vo9kDYkCe_5u7QftDIyHY9DP3vNVqEcVr2g5it6-kIsXAExmbfa4EvV5nGBXmhnLOeI&usqp=CAU" group-title="United Kingdom - Sports",UK: BT Sport Ultimate 4K HDR 50FPS
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBmBTlw50hjvfvkbsvvpEnQNLoWOqwVuC18hvOTNzOHA/ts
+#EXTINF:-1 xui-id="7049" tvg-id="BTSP1FR" tvg-name="UK: BT Sport 1 FHD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/87ed611a58f9bf25eb685dfbda051cae.png" group-title="United Kingdom - Sports",UK: BT Sport 1 FHD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBmBTlw50hjvfvkbsvvpEnRSLJac35N-S6CNtH6mA6eJ/ts
+#EXTINF:-1 xui-id="7050" tvg-id="BTSP1FR" tvg-name="UK: BT Sport 1 HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/0787f0f28e5f0bec8d05f751b57a848d.png" group-title="United Kingdom - Sports",UK: BT Sport 1 HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBmBTlw50hjvfvkbsvvpEnQbe5kbhb2HwhF0r-1BwuKx/ts
+#EXTINF:-1 xui-id="7051" tvg-id="BTSP1FR" tvg-name="UK: BT Sport 1 SD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/308dfd2f3d6ac433cdd7c0b800e93860.png" group-title="United Kingdom - Sports",UK: BT Sport 1 SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBmBTlw50hjvfvkbsvvpEnROS1Dt50ESd9ttpWijSRBP/ts
+#EXTINF:-1 xui-id="7052" tvg-id="BTSPOR2" tvg-name="UK: BT Sport 2 FHD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/db6e626d60372933a8c505a4b77e37fa.png" group-title="United Kingdom - Sports",UK: BT Sport 2 FHD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBmBTlw50hjvfvkbsvvpEnQDytr-rYQYbWYKcTHRAnc2/ts
+#EXTINF:-1 xui-id="7053" tvg-id="BTSPOR2" tvg-name="UK: BT Sport 2 HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/db6e626d60372933a8c505a4b77e37fa.png" group-title="United Kingdom - Sports",UK: BT Sport 2 HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBmBTlw50hjvfvkbsvvpEnTx56j_0aKPCNtaHmvS999h/ts
+#EXTINF:-1 xui-id="7054" tvg-id="BTSPOR2" tvg-name="UK: BT Sport 2 SD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/e193112d52af99582b8ed16a4412266e.png" group-title="United Kingdom - Sports",UK: BT Sport 2 SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBmBTlw50hjvfvkbsvvpEnRaOpwfh6_jZ6w8LsxVava0/ts
+#EXTINF:-1 xui-id="7055" tvg-id="btsport3.uk" tvg-name="UK: BT Sport 3 FHD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/45f8ad3ef5575899a404a67fc0ad6591.png" group-title="United Kingdom - Sports",UK: BT Sport 3 FHD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBmBTlw50hjvfvkbsvvpEnRLekbzPmMI8x4CsOQOCm9d/ts
+#EXTINF:-1 xui-id="7056" tvg-id="btsport3.uk" tvg-name="UK: BT Sport 3 HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/0787f0f28e5f0bec8d05f751b57a848d.png" group-title="United Kingdom - Sports",UK: BT Sport 3 HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBmBTlw50hjvfvkbsvvpEnQgLGtMNe55avQGAaRQXzCg/ts
+#EXTINF:-1 xui-id="7057" tvg-id="BTSP1FR" tvg-name="UK: BT Sport 3 SD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/308dfd2f3d6ac433cdd7c0b800e93860.png" group-title="United Kingdom - Sports",UK: BT Sport 3 SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBmBTlw50hjvfvkbsvvpEnRNYteEaAAt8CNrPD7QVZe1/ts
+#EXTINF:-1 xui-id="7058" tvg-id="btsportespn.uk" tvg-name="UK: BT Sport 4 FHD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/aabb1acddfdf45a72a4bf9d7094c8e52.png" group-title="United Kingdom - Sports",UK: BT Sport 4 FHD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBmBTlw50hjvfvkbsvvpEnSpQ_9ZDEkx7I-B7iACRoaG/ts
+#EXTINF:-1 xui-id="7059" tvg-id="btsportespn.uk" tvg-name="UK: BT Sport 4 HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/aabb1acddfdf45a72a4bf9d7094c8e52.png" group-title="United Kingdom - Sports",UK: BT Sport 4 HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBmBTlw50hjvfvkbsvvpEnR6WMVANgIcTSSxOx0_AnIT/ts
+#EXTINF:-1 xui-id="7060" tvg-id="BTSP1FR" tvg-name="UK: BT Sport 4 SD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/308dfd2f3d6ac433cdd7c0b800e93860.png" group-title="United Kingdom - Sports",UK: BT Sport 4 SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBmBTlw50hjvfvkbsvvpEnScGtpK8nkt6Khl2Ii3cQu6/ts
+#EXTINF:-1 xui-id="7061" tvg-id="btsportx1.uk" tvg-name="UK: BT Sport 5" tvg-logo="http://jg7k3.ifiesta.net:8080/images/477b9909e5b8eca7078183f967a7bb69.png" group-title="United Kingdom - Sports",UK: BT Sport 5
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBmBTlw50hjvfvkbsvvpEnR38_YIGO0YSnL4iq2V3C1L/ts
+#EXTINF:-1 xui-id="7062" tvg-id="btsportx2.uk" tvg-name="UK: BT Sport 6" tvg-logo="http://jg7k3.ifiesta.net:8080/images/ed83ff9fd29346dd46a53e945a4d7dc9.png" group-title="United Kingdom - Sports",UK: BT Sport 6
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBmBTlw50hjvfvkbsvvpEnQhiOS0gMEUMK9TyVS-4YiX/ts
+#EXTINF:-1 xui-id="7063" tvg-id="btsportx3.uk" tvg-name="UK: BT Sport 7" tvg-logo="http://jg7k3.ifiesta.net:8080/images/69cd4eae76c3ea9c289fae94c12c0ab4.png" group-title="United Kingdom - Sports",UK: BT Sport 7
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBmBTlw50hjvfvkbsvvpEnRprjsj3PUtWX7DfUXmL9Q-/ts
+#EXTINF:-1 xui-id="7064" tvg-id="btsportx4.uk" tvg-name="UK: BT Sport 8" tvg-logo="http://jg7k3.ifiesta.net:8080/images/ae420664572aed2e89a78cc73ab25217.png" group-title="United Kingdom - Sports",UK: BT Sport 8
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBmBTlw50hjvfvkbsvvpEnSS8_PljllksUVLhvAAGXlA/ts
+#EXTINF:-1 xui-id="7065" tvg-id="btsportx5.uk" tvg-name="UK: BT Sport 9" tvg-logo="http://jg7k3.ifiesta.net:8080/images/97c14a83add4e6dfb799dbfe0d2269d9.png" group-title="United Kingdom - Sports",UK: BT Sport 9
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBmBTlw50hjvfvkbsvvpEnT_V13QiFVboKVE51Jwz4Lu/ts
+#EXTINF:-1 xui-id="7066" tvg-id="btsportx6.uk" tvg-name="UK: BT Sport 10" tvg-logo="http://jg7k3.ifiesta.net:8080/images/1f364376881b6976b9f96b5bc354e17d.png" group-title="United Kingdom - Sports",UK: BT Sport 10
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBmBTlw50hjvfvkbsvvpEnRpIvzMPLctUlgJeSef9hdt/ts
+#EXTINF:-1 xui-id="7067" tvg-id="" tvg-name="UK: BT Sport Mosaic 2" tvg-logo="" group-title="United Kingdom - Sports",UK: BT Sport Mosaic 2
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBmBTlw50hjvfvkbsvvpEnSjtsmT033hloDmwhIVtj1j/ts
+#EXTINF:-1 xui-id="7068" tvg-id="ESUK1" tvg-name="UK: Eurosport 1 HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/91d6aeb2c215db9893803c56f3088af7.png" group-title="United Kingdom - Sports",UK: Eurosport 1 HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBmBTlw50hjvfvkbsvvpEnT993dW9S3z0y0O8X8ucG23/ts
+#EXTINF:-1 xui-id="7069" tvg-id="ESUK1" tvg-name="UK: Eurosport 1 SD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/91d6aeb2c215db9893803c56f3088af7.png" group-title="United Kingdom - Sports",UK: Eurosport 1 SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBmBTlw50hjvfvkbsvvpEnSnodSby59hxeags3yy4Vfp/ts
+#EXTINF:-1 xui-id="7070" tvg-id="EUSP2NL" tvg-name="UK: Eurosport 2 HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/6e35826605846802931f6dc12e655b41.png" group-title="United Kingdom - Sports",UK: Eurosport 2 HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBmBTlw50hjvfvkbsvvpEnS4P-Vrj7JhB8THvUmyBXNN/ts
+#EXTINF:-1 xui-id="7071" tvg-id="EUSP2NL" tvg-name="UK: Eurosport 2 SD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/74912ae110971f8f2fa72b6da48bba01.png" group-title="United Kingdom - Sports",UK: Eurosport 2 SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBmBTlw50hjvfvkbsvvpEnRY6Dc6WwG7iX-pQqdGVITv/ts
+#EXTINF:-1 xui-id="7072" tvg-id="racinguk.uk" tvg-name="UK: Racing TV" tvg-logo="" group-title="United Kingdom - Sports",UK: Racing TV
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBmBTlw50hjvfvkbsvvpEnSOEFi6KffpferpMO2ia5jE/ts
+#EXTINF:-1 xui-id="7073" tvg-id="premiersports.uk" tvg-name="UK: Premier Sport 1 FHD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/d0be5a0fb30c613d177aab3e058d9f4e.png" group-title="United Kingdom - Sports",UK: Premier Sport 1 FHD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBmBTlw50hjvfvkbsvvpEnSek8yim6rBL-oynpDhHiwg/ts
+#EXTINF:-1 xui-id="7074" tvg-id="premiersports.uk" tvg-name="UK: Premier Sport 1 HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/39c232923fb8211bfb2d708bc686c1ef.png" group-title="United Kingdom - Sports",UK: Premier Sport 1 HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBmBTlw50hjvfvkbsvvpEnRzBKDXFTnlSoQVp0pMpv_j/ts
+#EXTINF:-1 xui-id="7075" tvg-id="" tvg-name="UK: Premier Sport 1 SD" tvg-logo="" group-title="United Kingdom - Sports",UK: Premier Sport 1 SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBmBTlw50hjvfvkbsvvpEnQ3WdlWHKf1mXMNsn_cBxdX/ts
+#EXTINF:-1 xui-id="7076" tvg-id="premiersports2.uk" tvg-name="UK: Premier Sport 2 FHD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/39c232923fb8211bfb2d708bc686c1ef.png" group-title="United Kingdom - Sports",UK: Premier Sport 2 FHD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBmBTlw50hjvfvkbsvvpEnSVfogjO_69UezQPHQYgdLt/ts
+#EXTINF:-1 xui-id="7077" tvg-id="premiersports2.uk" tvg-name="UK: Premier Sport 2 HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/d0be5a0fb30c613d177aab3e058d9f4e.png" group-title="United Kingdom - Sports",UK: Premier Sport 2 HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBmBTlw50hjvfvkbsvvpEnRqVilqP1qs5JhiS5yjfgOo/ts
+#EXTINF:-1 xui-id="7078" tvg-id="" tvg-name="UK: Premier Sport 2 SD" tvg-logo="" group-title="United Kingdom - Sports",UK: Premier Sport 2 SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBmBTlw50hjvfvkbsvvpEnT1mab3TM3dSaFW4mlqVd0b/ts
+#EXTINF:-1 xui-id="7079" tvg-id="PRMSHDV" tvg-name="UK: Viaplay 1 HD (UK)" tvg-logo="http://jg7k3.ifiesta.net:8080/images/66d584f3352d38f5c845c5bea6b95651.png" group-title="United Kingdom - Sports",UK: Viaplay 1 HD (UK)
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBmBTlw50hjvfvkbsvvpEnSHuZxpqjEjdecuR13rWgNk/ts
+#EXTINF:-1 xui-id="7080" tvg-id="boxnation.uk" tvg-name="UK: BoxNation" tvg-logo="http://jg7k3.ifiesta.net:8080/images/34ab306238902e595e0afdaa0ad3b467.png" group-title="United Kingdom - Sports",UK: BoxNation
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBmBTlw50hjvfvkbsvvpEnSwYMUIVc6snA1nlqTQQNDq/ts
+#EXTINF:-1 xui-id="7081" tvg-id="racinguk.uk" tvg-name="UK: Racing TV HD" tvg-logo="" group-title="United Kingdom - Sports",UK: Racing TV HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBmBTlw50hjvfvkbsvvpEnRfgJRovcLWBcTrAZgwSVy7/ts
+#EXTINF:-1 xui-id="7082" tvg-id="FRSPUK" tvg-name="UK: FreeSports HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/93f013dde4644e43998793b9739baa33.png" group-title="United Kingdom - Sports",UK: FreeSports HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBmBTlw50hjvfvkbsvvpEnR3j9Z_pfvAsCvMc3zZ3P-J/ts
+#EXTINF:-1 xui-id="7083" tvg-id="tcm.uk" tvg-name="UK: TCM Movies SD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/275b74ebf06b3504f8639df9b093d7b5.png" group-title="United Kingdom - Movies",UK: TCM Movies SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBmBTlw50hjvfvkbsvvpEnQhSNGN9r0aDxGNf5eIHLo8/ts
+#EXTINF:-1 xui-id="7084" tvg-id="tcmplus1.uk" tvg-name="UK: TCM Movies +1 SD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/501773bf78943b91323b2d8a77c71446.png" group-title="United Kingdom - Movies",UK: TCM Movies +1 SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBmBTlw50hjvfvkbsvvpEnSQcELOvbjSHJYeS-Y5bu--/ts
+#EXTINF:-1 xui-id="7085" tvg-id="DMAXE" tvg-name="UK: DMAX" tvg-logo="http://jg7k3.ifiesta.net:8080/images/2def4877901ab0b450b3fcb231b2260d.png" group-title="United Kingdom - Entertainment",UK: DMAX
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBmBTlw50hjvfvkbsvvpEnSL70mc0uxLb_yHYWwS2JsB/ts
+#EXTINF:-1 xui-id="7086" tvg-id="DMAXP1" tvg-name="UK: DMAX +1" tvg-logo="http://jg7k3.ifiesta.net:8080/images/4e0cadffaae1a91eaa6c43ca4901b605.png" group-title="United Kingdom - Entertainment",UK: DMAX +1
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBmBTlw50hjvfvkbsvvpEnT4XBRDCR1092NASj8rU0ve/ts
+#EXTINF:-1 xui-id="7087" tvg-id="COMCEHD" tvg-name="UK: Comedy Central FHD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/24fd02ee62be108704e17bd900aab80d.png" group-title="United Kingdom - Entertainment",UK: Comedy Central FHD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBmBTlw50hjvfvkbsvvpEnS7DG8BhjvyR99IyCa7QwRq/ts
+#EXTINF:-1 xui-id="7088" tvg-id="COMCEHD" tvg-name="UK: Comedy Central HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/24fd02ee62be108704e17bd900aab80d.png" group-title="United Kingdom - Entertainment",UK: Comedy Central HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBmBTlw50hjvfvkbsvvpEnTOZ3wNgokAYC1mouholh3_/ts
+#EXTINF:-1 xui-id="7089" tvg-id="COMCEHD" tvg-name="UK: Comedy Central SD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/c386b9f4e6a16198953b3af5f41bcabd.png" group-title="United Kingdom - Entertainment",UK: Comedy Central SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBmBTlw50hjvfvkbsvvpEnT7nvjIMVgbvvNgnE3KlLvp/ts
+#EXTINF:-1 xui-id="7090" tvg-id="COMCNP1" tvg-name="UK: Comedy Central +1" tvg-logo="http://jg7k3.ifiesta.net:8080/images/48754ae8f212724a83fbd34fc1bb41fb.png" group-title="United Kingdom - Entertainment",UK: Comedy Central +1
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBmBTlw50hjvfvkbsvvpEnQPnIBDbPXVofA6-Q8dt4Bd/ts
+#EXTINF:-1 xui-id="7091" tvg-id="COMCNX" tvg-name="UK: Comedy Central Extra" tvg-logo="http://jg7k3.ifiesta.net:8080/images/eb97c6efd4f4d51886a3386aa9063948.png" group-title="United Kingdom - Entertainment",UK: Comedy Central Extra
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBmBTlw50hjvfvkbsvvpEnS666yl4eMy3UZDl758ri51/ts
+#EXTINF:-1 xui-id="7092" tvg-id="" tvg-name="UK: HorrorXtra +1 SD" tvg-logo="" group-title="United Kingdom - Movies",UK: HorrorXtra +1 SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBmBTlw50hjvfvkbsvvpEnROeUZiUriRTYpIeKuOeUBK/ts
+#EXTINF:-1 xui-id="7093" tvg-id="" tvg-name="UK: HorrorXtra SD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/886f68f44b99407843748784145f6841.png" group-title="United Kingdom - Movies",UK: HorrorXtra SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBmBTlw50hjvfvkbsvvpEnSN2Y7OMUn-d99NsJcZmdSf/ts
+#EXTINF:-1 xui-id="7094" tvg-id="" tvg-name="UK: Legend" tvg-logo="http://jg7k3.ifiesta.net:8080/images/e3343845aca6c89f90b47c67c9991d0b.png" group-title="United Kingdom - Entertainment",UK: Legend
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBmBTlw50hjvfvkbsvvpEnQXt-CsjxSi_9Dvha3Lj4-H/ts
+#EXTINF:-1 xui-id="7095" tvg-id="" tvg-name="UK: Cruise1st.tv" tvg-logo="http://jg7k3.ifiesta.net:8080/images/f3eb17633ae562327ccbf53cceaae139.png" group-title="United Kingdom - Entertainment",UK: Cruise1st.tv
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBmBTlw50hjvfvkbsvvpEnQai90EeAVQbnondE0y1bKd/ts
+#EXTINF:-1 xui-id="7096" tvg-id="CHALL" tvg-name="UK: Challenge" tvg-logo="http://jg7k3.ifiesta.net:8080/images/efb7696ceca567a2acea1715707bec25.png" group-title="United Kingdom - Entertainment",UK: Challenge
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBmBTlw50hjvfvkbsvvpEnTl5d6vDDKZux4suZhWo18u/ts
+#EXTINF:-1 xui-id="7097" tvg-id="DAVEHD" tvg-name="UK: Dave FHD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/e616ff88ff1a2edaec1ea00772426c44.png" group-title="United Kingdom - Entertainment",UK: Dave FHD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBmBTlw50hjvfvkbsvvpEnTRuKccJvlr_52bG_TfwF2W/ts
+#EXTINF:-1 xui-id="7098" tvg-id="DAVEHD" tvg-name="UK: Dave HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/e616ff88ff1a2edaec1ea00772426c44.png" group-title="United Kingdom - Entertainment",UK: Dave HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBmBTlw50hjvfvkbsvvpEnQ8jlXGk97286ppiiXAkLua/ts
+#EXTINF:-1 xui-id="7099" tvg-id="DAVEHD" tvg-name="UK: Dave SD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/3131f8b2e2264c2352bd091367f04f7f.png" group-title="United Kingdom - Entertainment",UK: Dave SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBmBTlw50hjvfvkbsvvpEnRMrP0CT4YQJfeUC_Hwwl3w/ts
+#EXTINF:-1 xui-id="7100" tvg-id="DAVEJV" tvg-name="UK: Dave Ja Vu" tvg-logo="http://jg7k3.ifiesta.net:8080/images/9def827f6fe8fb21562599a3a99dbbbb.png" group-title="United Kingdom - Entertainment",UK: Dave Ja Vu
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PGP1FE7_rzGFhlp_ylH2PM3Oi066tP68-1R4WrEF3tRR/ts
+#EXTINF:-1 xui-id="7101" tvg-id="MORE4" tvg-name="UK: More 4 FHD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/821ae3189c9d8c393b9eaca6eeff8f16.png" group-title="United Kingdom - Entertainment",UK: More 4 FHD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PGP1FE7_rzGFhlp_ylH2PM1Z-0Zjn1uynpywJ8S3coD_/ts
+#EXTINF:-1 xui-id="7102" tvg-id="MORE4" tvg-name="UK: More 4 HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/821ae3189c9d8c393b9eaca6eeff8f16.png" group-title="United Kingdom - Entertainment",UK: More 4 HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PGP1FE7_rzGFhlp_ylH2PM0Y469H1DmT4wl4M9Xk4dw2/ts
+#EXTINF:-1 xui-id="7103" tvg-id="MORE4" tvg-name="UK: More 4 SD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/f724c58f3107d2e6bed56fb55746da4c.png" group-title="United Kingdom - Entertainment",UK: More 4 SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PGP1FE7_rzGFhlp_ylH2PM1QlxLAw6Du1jUcTVRHGy8u/ts
+#EXTINF:-1 xui-id="7104" tvg-id="E4" tvg-name="UK: E4 FHD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/5d3a711d2951646a4acb7a863da6e024.png" group-title="United Kingdom - Entertainment",UK: E4 FHD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PGP1FE7_rzGFhlp_ylH2PM1N-BjeOogw2L1bhwmAT3in/ts
+#EXTINF:-1 xui-id="7105" tvg-id="E4" tvg-name="UK: E4 HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/5d3a711d2951646a4acb7a863da6e024.png" group-title="United Kingdom - Entertainment",UK: E4 HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PGP1FE7_rzGFhlp_ylH2PM2uytFapa0FD6km7KqNqDS_/ts
+#EXTINF:-1 xui-id="7106" tvg-id="E4" tvg-name="UK: E4 SD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/7e48817569596faa7a6e45f45547d8bb.png" group-title="United Kingdom - Entertainment",UK: E4 SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PGP1FE7_rzGFhlp_ylH2PM3ev3Ic4CAlD6MljjQVqF_V/ts
+#EXTINF:-1 xui-id="7107" tvg-id="E4P1" tvg-name="UK: E4 +1" tvg-logo="https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2019-10/E4-%2B1-RGB-Colour-Positive-255x140.png?itok=_64jRYsZ" group-title="United Kingdom - Entertainment",UK: E4 +1
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PGP1FE7_rzGFhlp_ylH2PM3zfsPU_wQiJZ_vUsC-41t6/ts
+#EXTINF:-1 xui-id="7108" tvg-id="ETVINHD" tvg-name="UK: E! Entertainment FHD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/79bbdf4a4caba49c62be234bcaf95b44.png" group-title="United Kingdom - Entertainment",UK: E! Entertainment FHD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PGP1FE7_rzGFhlp_ylH2PM2jiQeNbLzeWzJmmdGaMjf6/ts
+#EXTINF:-1 xui-id="7118" tvg-id="ETVINHD" tvg-name="UK: E! Entertainment HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/79bbdf4a4caba49c62be234bcaf95b44.png" group-title="United Kingdom - Entertainment",UK: E! Entertainment HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PGP1FE7_rzGFhlp_ylH2PM27bPxPPkOY0Mq9yp7XDOzR/ts
+#EXTINF:-1 xui-id="7119" tvg-id="ETVINT" tvg-name="UK: E! Entertainment SD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/c3dbb83fc69eb1cdda574c598969b9c5.png" group-title="United Kingdom - Entertainment",UK: E! Entertainment SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PGP1FE7_rzGFhlp_ylH2PM1I79dSPZrH_5WM78JjPrH1/ts
+#EXTINF:-1 xui-id="7120" tvg-id="WUKTVHD" tvg-name="UK: W HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/1a0bbb226a70b2eb0b54a4085d5bcac1.png" group-title="United Kingdom - Entertainment",UK: W HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PGP1FE7_rzGFhlp_ylH2PM1mnW6oFdxkYm8DlIHX0Zbx/ts
+#EXTINF:-1 xui-id="7121" tvg-id="WUKTVHD" tvg-name="UK: W SD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/975829dcd4cf56e869ff3f5a7da952ff.png" group-title="United Kingdom - Entertainment",UK: W SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PGP1FE7_rzGFhlp_ylH2PM21MchzfwNxZuftY7w8Y2KH/ts
+#EXTINF:-1 xui-id="7122" tvg-id="WUKTVP1" tvg-name="UK: W +1" tvg-logo="http://jg7k3.ifiesta.net:8080/images/583457c1b3a2ee4dfb90552de0a22248.png" group-title="United Kingdom - Entertainment",UK: W +1
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PGP1FE7_rzGFhlp_ylH2PM28mJlc57upNYfd5wJ5mF_r/ts
+#EXTINF:-1 xui-id="7123" tvg-id="GOLDE" tvg-name="UK: GOLD FHD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/321d3ee97048cf096aaaf3d21632ac63.png" group-title="United Kingdom - Entertainment",UK: GOLD FHD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PGP1FE7_rzGFhlp_ylH2PM3ml8F1DApItk-WurkcZFNa/ts
+#EXTINF:-1 xui-id="7124" tvg-id="GOLDE" tvg-name="UK: GOLD HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/321d3ee97048cf096aaaf3d21632ac63.png" group-title="United Kingdom - Entertainment",UK: GOLD HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PGP1FE7_rzGFhlp_ylH2PM0YnfVymZIKiaN_jzD9Pizn/ts
+#EXTINF:-1 xui-id="7125" tvg-id="GOLDE" tvg-name="UK: GOLD SD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/2ca0d09758ef0ff01a9662cdd8402b23.png" group-title="United Kingdom - Entertainment",UK: GOLD SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PGP1FE7_rzGFhlp_ylH2PM34NbzGO89Qpbj6rfV-aZLy/ts
+#EXTINF:-1 xui-id="7126" tvg-id="SYFYLAH" tvg-name="UK: SyFy FHD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/59c0f4e2c74b94e687a9acd2bcd4737d.png" group-title="United Kingdom - Movies",UK: SyFy FHD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PGP1FE7_rzGFhlp_ylH2PM1agE0wYtiEKEYNh1bYvtFf/ts
+#EXTINF:-1 xui-id="7127" tvg-id="SYFYLAH" tvg-name="UK: SyFy HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/1d0963321cec1d0f85d6e3587f6acbbf.png" group-title="United Kingdom - Movies",UK: SyFy HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PGP1FE7_rzGFhlp_ylH2PM3l-8jskd0DdXeM8VmXP87P/ts
+#EXTINF:-1 xui-id="7128" tvg-id="SYFYLAH" tvg-name="UK: SyFy SD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/85470b41c4778a801cfc1c17387e9fd7.png" group-title="United Kingdom - Movies",UK: SyFy SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PGP1FE7_rzGFhlp_ylH2PM1h3FjCm7EaehqJih3Gfag1/ts
+#EXTINF:-1 xui-id="7129" tvg-id="syfyplus1.uk" tvg-name="UK: SyFy +1 SD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/caeaba8788bf1186e0f4df05a4d9dfba.png" group-title="United Kingdom - Movies",UK: SyFy +1 SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PGP1FE7_rzGFhlp_ylH2PM2SkS0YI04BW4zo0lAermtJ/ts
+#EXTINF:-1 xui-id="7130" tvg-id="" tvg-name="UK: Sky Kids FHD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/8b6c4966d5e29828bd784d88cd053d52.png" group-title="United Kingdom - Kids",UK: Sky Kids FHD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PGP1FE7_rzGFhlp_ylH2PM3Pc5SQ0bYXSDx5EDKwCWoG/ts
+#EXTINF:-1 xui-id="7131" tvg-id="" tvg-name="UK: Sky Kids HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/8b6c4966d5e29828bd784d88cd053d52.png" group-title="United Kingdom - Kids",UK: Sky Kids HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PGP1FE7_rzGFhlp_ylH2PM14hRp5xCOF61TBVy0IoDEo/ts
+#EXTINF:-1 xui-id="7132" tvg-id="" tvg-name="UK: Sky Kids SD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/8b6c4966d5e29828bd784d88cd053d52.png" group-title="United Kingdom - Kids",UK: Sky Kids SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PGP1FE7_rzGFhlp_ylH2PM0dK1Ojv6TxmuLlz6dKONcS/ts
+#EXTINF:-1 xui-id="7133" tvg-id="babytv.uk" tvg-name="UK: Baby TV" tvg-logo="http://jg7k3.ifiesta.net:8080/images/b03db621a1ab07a0dc08560dfc48e412.png" group-title="United Kingdom - Kids",UK: Baby TV
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PGP1FE7_rzGFhlp_ylH2PM2xbFE0_przaYnFRI48cL_S/ts
+#EXTINF:-1 xui-id="7134" tvg-id="BOOMUKH" tvg-name="UK: Boomerang FHD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/f207a9a547fc5effffe296a69b4d177d.png" group-title="United Kingdom - Kids",UK: Boomerang FHD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PGP1FE7_rzGFhlp_ylH2PM1ndXvvtu0yl4VnltuQCuKd/ts
+#EXTINF:-1 xui-id="7135" tvg-id="BOOMUKH" tvg-name="UK: Boomerang HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/f207a9a547fc5effffe296a69b4d177d.png" group-title="United Kingdom - Kids",UK: Boomerang HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PGP1FE7_rzGFhlp_ylH2PM0Ho9XV3-jw2Woc3QFj5uQD/ts
+#EXTINF:-1 xui-id="7136" tvg-id="BOOMRG" tvg-name="UK: Boomerang SD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/216e7b874214c253b16edb3b9d4f518d.png" group-title="United Kingdom - Kids",UK: Boomerang SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PGP1FE7_rzGFhlp_ylH2PM31kewFBN_4W3Mu4D6UEywo/ts
+#EXTINF:-1 xui-id="7137" tvg-id="BOOMRP1" tvg-name="UK: Boomerang +1" tvg-logo="http://jg7k3.ifiesta.net:8080/images/3b5bf6eff47e44403da94690d9729870.png" group-title="United Kingdom - Kids",UK: Boomerang +1
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PGP1FE7_rzGFhlp_ylH2PM3lNCzG7si_c5RpSPyH3ooB/ts
+#EXTINF:-1 xui-id="7138" tvg-id="citv.uk" tvg-name="UK: CITV" tvg-logo="http://jg7k3.ifiesta.net:8080/images/fbd2c7538d41eb1cec754ce650fbab69.png" group-title="United Kingdom - Kids",UK: CITV
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PGP1FE7_rzGFhlp_ylH2PM1UpoMzvRACtsagR7J8TSbm/ts
+#EXTINF:-1 xui-id="7139" tvg-id="cbbc.uk" tvg-name="UK: CBBC HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/8e7153315cd4b0dfdfb210f1d87afd85.png" group-title="United Kingdom - Kids",UK: CBBC HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PGP1FE7_rzGFhlp_ylH2PM19-qz18qER_pKzYRugO8ES/ts
+#EXTINF:-1 xui-id="7140" tvg-id="cbeebies.uk" tvg-name="UK: CBeebies HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/f6255c39378cff3af6d2c2fa7468e6a3.png" group-title="United Kingdom - Kids",UK: CBeebies HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PGP1FE7_rzGFhlp_ylH2PM2LSd6zt0HtnK5L7QzEsDxo/ts
+#EXTINF:-1 xui-id="7141" tvg-id="cbeebies.uk" tvg-name="UK: CBeebies SD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/f6255c39378cff3af6d2c2fa7468e6a3.png" group-title="United Kingdom - Kids",UK: CBeebies SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PGP1FE7_rzGFhlp_ylH2PM2LQXXbgYvfYecaesY9g78F/ts
+#EXTINF:-1 xui-id="7142" tvg-id="CRTONHD" tvg-name="UK: Cartoon Network FHD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/698ac38c46b3e0c869fafd85a07c9bcf.png" group-title="United Kingdom - Kids",UK: Cartoon Network FHD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PGP1FE7_rzGFhlp_ylH2PM2ULJ-pn_4odqkB2fMkfiOw/ts
+#EXTINF:-1 xui-id="7143" tvg-id="CRTONHD" tvg-name="UK: Cartoon Network HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/698ac38c46b3e0c869fafd85a07c9bcf.png" group-title="United Kingdom - Kids",UK: Cartoon Network HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PGP1FE7_rzGFhlp_ylH2PM2kh_YFFyFCGakZimBwhpRA/ts
+#EXTINF:-1 xui-id="7144" tvg-id="CRTONHD" tvg-name="UK: Cartoon Network SD" tvg-logo="" group-title="United Kingdom - Kids",UK: Cartoon Network SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PGP1FE7_rzGFhlp_ylH2PM29uvgEg37p7hrfKQ7xeYDC/ts
+#EXTINF:-1 xui-id="7145" tvg-id="CRTOOP1" tvg-name="UK: Cartoon Network +1" tvg-logo="http://jg7k3.ifiesta.net:8080/images/62d052fc0aa4d902da81492d0b4418fc.png" group-title="United Kingdom - Kids",UK: Cartoon Network +1
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PGP1FE7_rzGFhlp_ylH2PM1PB1LmdO3zvL9tnZUo1L2s/ts
+#EXTINF:-1 xui-id="7146" tvg-id="CARNITO" tvg-name="UK: Cartoonito" tvg-logo="http://jg7k3.ifiesta.net:8080/images/6306173e71233d39c0bf956c0276cdfd.png" group-title="United Kingdom - Kids",UK: Cartoonito
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PGP1FE7_rzGFhlp_ylH2PM1j6Z8tSwl1NRZ1ihv1oSMP/ts
+#EXTINF:-1 xui-id="7147" tvg-id="TINYPOP" tvg-name="UK: Tiny Pop" tvg-logo="http://jg7k3.ifiesta.net:8080/images/12a0f33a6957ec89e3fec034c03395d7.png" group-title="United Kingdom - Kids",UK: Tiny Pop
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PGP1FE7_rzGFhlp_ylH2PM2P5PinVfbAFmmIDwzn7sM6/ts
+#EXTINF:-1 xui-id="7148" tvg-id="TINYPP1" tvg-name="UK: Tiny Pop +1" tvg-logo="http://jg7k3.ifiesta.net:8080/images/219e297d8408a265a91f74fc57b177db.png" group-title="United Kingdom - Kids",UK: Tiny Pop +1
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PGP1FE7_rzGFhlp_ylH2PM3b21-CHs_ww4tbiVbOD1zw/ts
+#EXTINF:-1 xui-id="7149" tvg-id="POP" tvg-name="UK: POP" tvg-logo="http://jg7k3.ifiesta.net:8080/images/0796b9791166acdc24f6fb4ee0ce33b6.png" group-title="United Kingdom - Kids",UK: POP
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PGP1FE7_rzGFhlp_ylH2PM13SMEY4PoCHO_oWxDWhXMV/ts
+#EXTINF:-1 xui-id="7150" tvg-id="POPP1" tvg-name="UK: POP +1" tvg-logo="http://jg7k3.ifiesta.net:8080/images/d195a2a9e7b3e2121c2e9b339d31536d.png" group-title="United Kingdom - Kids",UK: POP +1
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PGP1FE7_rzGFhlp_ylH2PM2Mssxyur3-tChzexxuWeqP/ts
+#EXTINF:-1 xui-id="7151" tvg-id="POPMXUK" tvg-name="UK: POP Max" tvg-logo="http://jg7k3.ifiesta.net:8080/images/39a72fb37f09c996b06fa4f3983c29a3.png" group-title="United Kingdom - Kids",UK: POP Max
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PGP1FE7_rzGFhlp_ylH2PM16p5BJ-IU0rxtGGxiv3siT/ts
+#EXTINF:-1 xui-id="7152" tvg-id="POPMXP1" tvg-name="UK: POP Max +1" tvg-logo="http://jg7k3.ifiesta.net:8080/images/8edcf5b2513f891ee122fd9d6e5bea6a.png" group-title="United Kingdom - Kids",UK: POP Max +1
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PGP1FE7_rzGFhlp_ylH2PM2s9NBhcyYKfTimjSKJLuoJ/ts
+#EXTINF:-1 xui-id="7153" tvg-id="NICKHD" tvg-name="UK: Nickelodeon FHD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/75f47e598cb523fbcb6a4db8c0fdbd8b.png" group-title="United Kingdom - Kids",UK: Nickelodeon FHD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PGP1FE7_rzGFhlp_ylH2PM1wNLUg00j2oqzwm0NSj8Z5/ts
+#EXTINF:-1 xui-id="7154" tvg-id="NICKHD" tvg-name="UK: Nickelodeon HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/75f47e598cb523fbcb6a4db8c0fdbd8b.png" group-title="United Kingdom - Kids",UK: Nickelodeon HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PGP1FE7_rzGFhlp_ylH2PM2DARB8ccXJZskueDsHfWFP/ts
+#EXTINF:-1 xui-id="7155" tvg-id="NICKHD" tvg-name="UK: Nickelodeon SD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/ce5e33f4099aff55d35ce8a6248d2408.png" group-title="United Kingdom - Kids",UK: Nickelodeon SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PGP1FE7_rzGFhlp_ylH2PM3xk5tcX-mFoOuZjWRXb_U4/ts
+#EXTINF:-1 xui-id="7156" tvg-id="NICKP1" tvg-name="UK: Nickelodeon +1" tvg-logo="http://jg7k3.ifiesta.net:8080/images/4d275a4e9405eb14574bd5c68bcd85df.png" group-title="United Kingdom - Kids",UK: Nickelodeon +1
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PGP1FE7_rzGFhlp_ylH2PM0gHyygWCb_GjL4OPhy0MTd/ts
+#EXTINF:-1 xui-id="7157" tvg-id="TOONSMC" tvg-name="UK: Nicktoons" tvg-logo="http://jg7k3.ifiesta.net:8080/images/887eaf84908c4612967119328f5549f5.png" group-title="United Kingdom - Kids",UK: Nicktoons
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PGP1FE7_rzGFhlp_ylH2PM3f11N49whcGd78mTs5RL5U/ts
+#EXTINF:-1 xui-id="7158" tvg-id="NICKJR2" tvg-name="UK: Nick Jr. Too" tvg-logo="http://jg7k3.ifiesta.net:8080/images/1872d0f87075a22dc4b71a46675d2a37.png" group-title="United Kingdom - Kids",UK: Nick Jr. Too
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PGP1FE7_rzGFhlp_ylH2PM0Xmz_K-U8_eblQgotdsDz-/ts
+#EXTINF:-1 xui-id="7159" tvg-id="NICKJGL" tvg-name="UK: Nick Jr." tvg-logo="http://jg7k3.ifiesta.net:8080/images/b4e7567d9a38f2ac0832665806af067d.png" group-title="United Kingdom - Kids",UK: Nick Jr.
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PGP1FE7_rzGFhlp_ylH2PM0uEwMJyziF00IS4sRgE6yo/ts
+#EXTINF:-1 xui-id="7160" tvg-id="NICKJR1" tvg-name="UK: Nick Jr. +1" tvg-logo="http://jg7k3.ifiesta.net:8080/images/6235573d5409ff5d4f5ae2fdeea2f536.png" group-title="United Kingdom - Kids",UK: Nick Jr. +1
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PGP1FE7_rzGFhlp_ylH2PM1O5N8QjA3nsFKtwigtgd4L/ts
+#EXTINF:-1 xui-id="7161" tvg-id="ALIBIHD" tvg-name="UK: alibi FHD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/633384f85c39f016423f9ca9dbe39c8c.png" group-title="United Kingdom - Entertainment",UK: alibi FHD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PGP1FE7_rzGFhlp_ylH2PM0Q_i4TzS5YJGKRlgBT2uN-/ts
+#EXTINF:-1 xui-id="7162" tvg-id="ALIBIHD" tvg-name="UK: alibi HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/633384f85c39f016423f9ca9dbe39c8c.png" group-title="United Kingdom - Entertainment",UK: alibi HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PGP1FE7_rzGFhlp_ylH2PM3iPrwuV9chVSlSgWYle3PQ/ts
+#EXTINF:-1 xui-id="7163" tvg-id="ALIBIHD" tvg-name="UK: alibi SD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/fd8d4d7c3df4b2e054895233a3635306.png" group-title="United Kingdom - Entertainment",UK: alibi SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PGP1FE7_rzGFhlp_ylH2PM2Zbf1hSIJCpWvNc1b6sZJA/ts
+#EXTINF:-1 xui-id="7164" tvg-id="ALIBIP1" tvg-name="UK: alibi +1" tvg-logo="http://jg7k3.ifiesta.net:8080/images/37fb09658f3a730f48f468c9f90f38eb.png" group-title="United Kingdom - Entertainment",UK: alibi +1
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PGP1FE7_rzGFhlp_ylH2PM0H9kmHtDOmFWGFNhtBDLhL/ts
+#EXTINF:-1 xui-id="7165" tvg-id="smithsonian.uk" tvg-name="UK: Smithsonian HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/a236783696f5a8aa16ceb3971357ca51.png" group-title="United Kingdom - Entertainment",UK: Smithsonian HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PGP1FE7_rzGFhlp_ylH2PM0l9vG0iqcQLGN89dQJv9zt/ts
+#EXTINF:-1 xui-id="7166" tvg-id="smithsonian.uk" tvg-name="UK: Smithsonian" tvg-logo="http://jg7k3.ifiesta.net:8080/images/a236783696f5a8aa16ceb3971357ca51.png" group-title="United Kingdom - Entertainment",UK: Smithsonian
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PGP1FE7_rzGFhlp_ylH2PM0kCwRC_vNQizmMAl3eW33d/ts
+#EXTINF:-1 xui-id="7167" tvg-id="TLCKDG" tvg-name="UK: TLC" tvg-logo="http://jg7k3.ifiesta.net:8080/images/f6b9100b8d462409a855f6ed8fca4847.png" group-title="United Kingdom - Entertainment",UK: TLC
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PGP1FE7_rzGFhlp_ylH2PM1ijBAAPV5FHx8oUAsEx2pz/ts
+#EXTINF:-1 xui-id="7168" tvg-id="tlcplus1.uk" tvg-name="UK: TLC +1" tvg-logo="http://jg7k3.ifiesta.net:8080/images/74f6ffa5fdc646bd68d14ce183764e20.png" group-title="United Kingdom - Entertainment",UK: TLC +1
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PGP1FE7_rzGFhlp_ylH2PM2oIdCLyrX7ABSh5efGCS5c/ts
+#EXTINF:-1 xui-id="7169" tvg-id="sonytv.uk" tvg-name="UK: Sony TV HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/b3d55dc2d95df55e75b6f173e6f51b1e.png" group-title="United Kingdom - International",UK: Sony TV HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PGP1FE7_rzGFhlp_ylH2PM3qKCpXpEbo3yaDB-JCE8hj/ts
+#EXTINF:-1 xui-id="7170" tvg-id="sonymax.uk" tvg-name="UK: Sony Max HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/203dbe974c8ef852fa0b7859e91a7fb7.png" group-title="United Kingdom - International",UK: Sony Max HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PGP1FE7_rzGFhlp_ylH2PM0ov3orgm7MmiuxdBdvSk2v/ts
+#EXTINF:-1 xui-id="7171" tvg-id="sonytv.uk" tvg-name="UK: SONY TV" tvg-logo="http://jg7k3.ifiesta.net:8080/images/b3d55dc2d95df55e75b6f173e6f51b1e.png" group-title="United Kingdom - International",UK: SONY TV
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PGP1FE7_rzGFhlp_ylH2PM1vVNxlBIlhu-I7Ftofg1VW/ts
+#EXTINF:-1 xui-id="7172" tvg-id="sonysab.uk" tvg-name="UK: SONY SAB" tvg-logo="http://jg7k3.ifiesta.net:8080/images/f657e24816a33ac9f98cc193e4db79a3.png" group-title="United Kingdom - International",UK: SONY SAB
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PGP1FE7_rzGFhlp_ylH2PM1Q9Nwc3yi2txt42R2BfU-e/ts
+#EXTINF:-1 xui-id="7173" tvg-id="sonymax.uk" tvg-name="UK: SONY MAX" tvg-logo="http://jg7k3.ifiesta.net:8080/images/203dbe974c8ef852fa0b7859e91a7fb7.png" group-title="United Kingdom - International",UK: SONY MAX
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PGP1FE7_rzGFhlp_ylH2PM1Sj4b5-NAVxROuHqLcnXAa/ts
+#EXTINF:-1 xui-id="7174" tvg-id="SETMAX2" tvg-name="UK: SONY MAX 2" tvg-logo="http://jg7k3.ifiesta.net:8080/images/9c30c26a3261398d5e56499a3b60f884.png" group-title="United Kingdom - International",UK: SONY MAX 2
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PGP1FE7_rzGFhlp_ylH2PM0H0CRt9OdHlNPNH7GQd3dh/ts
+#EXTINF:-1 xui-id="7175" tvg-id="EDEN" tvg-name="UK: Eden SD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/86a8e6570247c17406f23492db80269e.png" group-title="United Kingdom - Documentaries & Factual Entertainment",UK: Eden SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PGP1FE7_rzGFhlp_ylH2PM3wiePT1JtTWK5lJYVYnaNH/ts
+#EXTINF:-1 xui-id="7176" tvg-id="EDENP1" tvg-name="UK: Eden +1 SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/39/Eden_Plus_1_-_Dark.png/revision/latest/scale-to-width-down/250?cb=20200608002026" group-title="United Kingdom - Documentaries & Factual Entertainment",UK: Eden +1 SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PGP1FE7_rzGFhlp_ylH2PM2uJPeVd1PAo1bxb8leKISq/ts
+#EXTINF:-1 xui-id="7177" tvg-id="FOODIT" tvg-name="UK: Food Network" tvg-logo="http://jg7k3.ifiesta.net:8080/images/a2c675b65e293f2d34acde1f2a12b0ac.png" group-title="United Kingdom - Entertainment",UK: Food Network
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PGP1FE7_rzGFhlp_ylH2PM39XG72dQSVctdOYOoae6My/ts
+#EXTINF:-1 xui-id="7178" tvg-id="laligatv.uk" tvg-name="UK: LaLigaTV FHD" tvg-logo="" group-title="United Kingdom - Sports",UK: LaLigaTV FHD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PGP1FE7_rzGFhlp_ylH2PM0Cr6WIybUHHut4-Z3_oJV9/ts
+#EXTINF:-1 xui-id="7179" tvg-id="LALTV" tvg-name="UK: LaLigaTV SD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/ba60d4bf4c7e38ffd7773ced97ee9497.png" group-title="United Kingdom - Sports",UK: LaLigaTV SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PGP1FE7_rzGFhlp_ylH2PM2jFNlEotDl6f_LCEreB2J5/ts
+#EXTINF:-1 xui-id="7180" tvg-id="liverpoolfctv.uk" tvg-name="UK: LFC TV HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/eb067bae2a47ad9c7da9eec222caaa83.png" group-title="United Kingdom - Sports",UK: LFC TV HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PGP1FE7_rzGFhlp_ylH2PM3k67jjf0iZVMqh11y6Tk9p/ts
+#EXTINF:-1 xui-id="7181" tvg-id="mutv.uk" tvg-name="UK: MUTV HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/48a146df1bb117f4a034f6fe5d824562.png" group-title="United Kingdom - Sports",UK: MUTV HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PGP1FE7_rzGFhlp_ylH2PM1clR3TDJoelZSS_Fj4Finb/ts
+#EXTINF:-1 xui-id="7183" tvg-id="BLAZUK" tvg-name="UK: BLAZE SD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/364c53ae764933f9b3642bee111eba23.png" group-title="United Kingdom - Documentaries & Factual Entertainment",UK: BLAZE SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PGP1FE7_rzGFhlp_ylH2PM1A_nTEgYHpUfje2mSCGG-T/ts
+#EXTINF:-1 xui-id="7184" tvg-id="" tvg-name="UK: E4 Extra" tvg-logo="http://jg7k3.ifiesta.net:8080/images/5e5080312effa5a61efbc9532bf61657.png" group-title="United Kingdom - Entertainment",UK: E4 Extra
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PGP1FE7_rzGFhlp_ylH2PM164rNNTUUC0R7kWtw27BZy/ts
+#EXTINF:-1 xui-id="7185" tvg-id="4SEVEN" tvg-name="UK: 4seven" tvg-logo="http://jg7k3.ifiesta.net:8080/images/8b254b2ce9754cd011d832193618c954.png" group-title="United Kingdom - Entertainment",UK: 4seven
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PGP1FE7_rzGFhlp_ylH2PM3OLkFAo4KCGwB7VN3fbbik/ts
+#EXTINF:-1 xui-id="7186" tvg-id="foodnetworkplus1.uk" tvg-name="UK: Food Network +1" tvg-logo="http://jg7k3.ifiesta.net:8080/images/9fc0b8317bf6952378f3afafe62e7843.png" group-title="United Kingdom - Entertainment",UK: Food Network +1
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PGP1FE7_rzGFhlp_ylH2PM2MgLdqnEt1QanQnki2Hgfu/ts
+#EXTINF:-1 xui-id="7187" tvg-id="spotlighttv.uk" tvg-name="UK: Spotlight TV" tvg-logo="http://jg7k3.ifiesta.net:8080/images/6876cc804ecf3315bef2f669f3b85edf.png" group-title="United Kingdom - Music",UK: Spotlight TV
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PGP1FE7_rzGFhlp_ylH2PM2Q9SgSpfxdqzUFLKXMGr6s/ts
+#EXTINF:-1 xui-id="7188" tvg-id="qvcbeauty.uk" tvg-name="UK: TJC Beauty" tvg-logo="http://jg7k3.ifiesta.net:8080/images/21f1a02e32b761e44a3c38c8d5af4c52.png" group-title="United Kingdom - Shopping",UK: TJC Beauty
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PGP1FE7_rzGFhlp_ylH2PM1NxkDDm0k77RHJU0xkgvnS/ts
+#EXTINF:-1 xui-id="7189" tvg-id="tlc.uk" tvg-name="UK: TJC HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/c7a6d2bf9f1e8e5000fc1f509b4668f2.png" group-title="United Kingdom - Shopping",UK: TJC HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PGP1FE7_rzGFhlp_ylH2PM03V6ShLonAcwU3N-sIBhpy/ts
+#EXTINF:-1 xui-id="7190" tvg-id="TRTWRSD" tvg-name="UK: TRT World HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/b99b7abe0ef0443dbadf6104708871f2.png" group-title="United Kingdom - News",UK: TRT World HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PGP1FE7_rzGFhlp_ylH2PM2Ppr7TQRSQhuoV467FNZeE/ts
+#EXTINF:-1 xui-id="7191" tvg-id="tvwarehouse.uk" tvg-name="UK: TV Warehouse" tvg-logo="https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2023-03/tv-warehouse-logo.png?itok=Tg2xwZCk" group-title="United Kingdom - Shopping",UK: TV Warehouse
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PGP1FE7_rzGFhlp_ylH2PM0DuXWdHI8KzlbmFLSjJ7CY/ts
+#EXTINF:-1 xui-id="7192" tvg-id="INVDIP1" tvg-name="UK: Investigation Discovery +1 SD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/df60451965758170065bc40504a259a6.png" group-title="United Kingdom - Documentaries & Factual Entertainment",UK: Investigation Discovery +1 SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PGP1FE7_rzGFhlp_ylH2PM1nL-Gd1EQV81mf0Ql1bSQ4/ts
+#EXTINF:-1 xui-id="7193" tvg-id="TAKBEER" tvg-name="UK: Takbeer TV" tvg-logo="http://jg7k3.ifiesta.net:8080/images/00738c90b8e08a8693632e6bee0559d0.jpg" group-title="United Kingdom - International",UK: Takbeer TV
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PGP1FE7_rzGFhlp_ylH2PM2WIS2WWpplm0qUwQKvGkKR/ts
+#EXTINF:-1 xui-id="7194" tvg-id="TALKPIC" tvg-name="UK: Talking Pictures SD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/c96dc0ac16dc0c83dbd68870199f33f5.png" group-title="United Kingdom - Movies",UK: Talking Pictures SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PGP1FE7_rzGFhlp_ylH2PM3SYN7m_YuoCOv455jpwNiY/ts
+#EXTINF:-1 xui-id="7195" tvg-id="thane.uk" tvg-name="UK: Thane" tvg-logo="http://jg7k3.ifiesta.net:8080/images/b09e2241926bbdb2f5c15947a91b6856.png" group-title="United Kingdom - Shopping",UK: Thane
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PGP1FE7_rzGFhlp_ylH2PM3icn9XTaW-DWHxrDgu-iDs/ts
+#EXTINF:-1 xui-id="7196" tvg-id="thatstvgold.uk" tvg-name="UK: That's TV" tvg-logo="http://jg7k3.ifiesta.net:8080/images/156ae5469390f95d33c66ed8ea006289.png" group-title="United Kingdom - Entertainment",UK: That's TV
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PGP1FE7_rzGFhlp_ylH2PM2mON0NlY_Bup9FX6MkYBGh/ts
+#EXTINF:-1 xui-id="7197" tvg-id="TOGETUK" tvg-name="UK: Together SD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/edc503d1af24af417b25fe5f850e7408.png" group-title="United Kingdom - Documentaries & Factual Entertainment",UK: Together SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PGP1FE7_rzGFhlp_ylH2PM0wLr8znN_6jQADF3THCWA_/ts
+#EXTINF:-1 xui-id="7198" tvg-id="travelxp.uk" tvg-name="UK: Travelxp" tvg-logo="http://jg7k3.ifiesta.net:8080/images/2e2e125ae0413c053c37976527f36ed6.png" group-title="United Kingdom - Entertainment",UK: Travelxp
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PGP1FE7_rzGFhlp_ylH2PM2jNDLj-Py1Mm2DRUexbRaC/ts
+#EXTINF:-1 xui-id="7199" tvg-id="4MUSIC" tvg-name="UK: 4Music" tvg-logo="http://jg7k3.ifiesta.net:8080/images/2ca02f25172930730c3b95855570adb4.png" group-title="United Kingdom - Music",UK: 4Music
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PGP1FE7_rzGFhlp_ylH2PM0YeihNpqf0dA8U210aL2Fj/ts
+#EXTINF:-1 xui-id="7200" tvg-id="ITV1GRH" tvg-name="UK: ITV Granada HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/4d466b3ea2aaa835288e3ae595bbfb9b.png" group-title="United Kingdom - Entertainment",UK: ITV Granada HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PMxtEAGwfX__D8sagBmWt4Cy0DBK8kAvvtWd3AYhZdu2/ts
+#EXTINF:-1 xui-id="7201" tvg-id="" tvg-name="UK: LaLigaTV HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/ba60d4bf4c7e38ffd7773ced97ee9497.png" group-title="United Kingdom - Sports",UK: LaLigaTV HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PMxtEAGwfX__D8sagBmWt4BbAGLR9-6M3Dur6O0OcNqr/ts
+#EXTINF:-1 xui-id="7202" tvg-id="BBC3" tvg-name="UK: BBC Three HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/95bf6ef010441281c83eb776aaede25b.png" group-title="United Kingdom - Entertainment",UK: BBC Three HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PMxtEAGwfX__D8sagBmWt4ArD-L9WcO_teWrCCCtp-NC/ts
+#EXTINF:-1 xui-id="7203" tvg-id="" tvg-name="UK: SportyStuff HD" tvg-logo="" group-title="United Kingdom - Sports",UK: SportyStuff HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PMxtEAGwfX__D8sagBmWt4AoFsNXItK3wjlDQoLQSyoP/ts
+#EXTINF:-1 xui-id="7204" tvg-id="fiveusa.uk" tvg-name="UK: 5 USA" tvg-logo="http://jg7k3.ifiesta.net:8080/images/0abfab2e97cee7c2b9318fa5aa9cb59f.png" group-title="United Kingdom - Entertainment",UK: 5 USA
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PMxtEAGwfX__D8sagBmWt4BpN3JUTqrfC11XfhN5qSx0/ts
+#EXTINF:-1 xui-id="7205" tvg-id="5action.uk" tvg-name="UK: 5ACTION" tvg-logo="http://jg7k3.ifiesta.net:8080/images/aee7afc26f85fc9ee49c05165b33bac2.png" group-title="United Kingdom - Entertainment",UK: 5ACTION
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PMxtEAGwfX__D8sagBmWt4AZXFyYa6L1pQhBnZK41Zlv/ts
+#EXTINF:-1 xui-id="7206" tvg-id="" tvg-name="UK: 5SELECT" tvg-logo="http://jg7k3.ifiesta.net:8080/images/4c6ecc0c8a428e0b08afbcbc187e10c5.png" group-title="United Kingdom - Entertainment",UK: 5SELECT
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PMxtEAGwfX__D8sagBmWt4CznyX9wQL83hYJ0mUaqD44/ts
+#EXTINF:-1 xui-id="7207" tvg-id="5star.uk" tvg-name="UK: 5STAR" tvg-logo="http://jg7k3.ifiesta.net:8080/images/f205e5e263d9656f9240ae469229ee64.png" group-title="United Kingdom - Entertainment",UK: 5STAR
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PMxtEAGwfX__D8sagBmWt4Ct8hgipr6VcSWmrRAGdL6_/ts
+#EXTINF:-1 xui-id="7208" tvg-id="5starplus1.uk" tvg-name="UK: 5STAR +1" tvg-logo="http://jg7k3.ifiesta.net:8080/images/01b6f2da14c3b668832666a5e5d18b9e.png" group-title="United Kingdom - Entertainment",UK: 5STAR +1
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PMxtEAGwfX__D8sagBmWt4AYyjbkF1YZhP4Ck6ZLthR5/ts
+#EXTINF:-1 xui-id="7209" tvg-id="5USAP1" tvg-name="UK: 5USA +1" tvg-logo="http://jg7k3.ifiesta.net:8080/images/e7157b8babb3ff9788c8af7505fc65a6.png" group-title="United Kingdom - Entertainment",UK: 5USA +1
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PMxtEAGwfX__D8sagBmWt4DR5MoWX5B7aUXtdRRET_xw/ts
+#EXTINF:-1 xui-id="7210" tvg-id="92news.uk" tvg-name="UK: 92 News" tvg-logo="http://jg7k3.ifiesta.net:8080/images/a59ea7c129d7a54761cdfc2d490fb70c.png" group-title="United Kingdom - International",UK: 92 News
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PMxtEAGwfX__D8sagBmWt4Do4AgF7K2m6N0roAKjd7Oe/ts
+#EXTINF:-1 xui-id="7212" tvg-id="ATNBNUK" tvg-name="UK: ATN Bangla UK" tvg-logo="http://jg7k3.ifiesta.net:8080/images/7e9a723a53f8a175d7b5d30744d4ffd4.png" group-title="United Kingdom - International",UK: ATN Bangla UK
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PMxtEAGwfX__D8sagBmWt4Aoe1taw2pGaK9J_wFNoUqd/ts
+#EXTINF:-1 xui-id="7213" tvg-id="B4UMOV" tvg-name="UK: B4U Movies" tvg-logo="http://jg7k3.ifiesta.net:8080/images/931c31c1bcc6aadf46ba5e6f0176908a.png" group-title="United Kingdom - International",UK: B4U Movies
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PMxtEAGwfX__D8sagBmWt4Dk0daEg2IRwgHW6n17Ea80/ts
+#EXTINF:-1 xui-id="7214" tvg-id="B4UMSUK" tvg-name="UK: B4U Music" tvg-logo="http://jg7k3.ifiesta.net:8080/images/b2ecd7aae7b6adc9989e9a255a86f9ce.png" group-title="United Kingdom - International",UK: B4U Music
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PMxtEAGwfX__D8sagBmWt4APHBi9pkovgzo_OymWO_TQ/ts
+#EXTINF:-1 xui-id="7215" tvg-id="BBC4HD" tvg-name="UK: BBC Four HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/8d7a7552c2a978093b990f1a1fad4dd4.png" group-title="United Kingdom - Entertainment",UK: BBC Four HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PMxtEAGwfX__D8sagBmWt4AGjb8RxprQnaH6jQdgzMg9/ts
+#EXTINF:-1 xui-id="7216" tvg-id="BBCNWHD" tvg-name="UK: BBC News HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/3a64725da0a941a9000d22ffc04ab566.png" group-title="United Kingdom - News",UK: BBC News HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PMxtEAGwfX__D8sagBmWt4DPSD1tuIgqFKk7pRpKTQDj/ts
+#EXTINF:-1 xui-id="7217" tvg-id="BBCPARL" tvg-name="UK: BBC Parliament" tvg-logo="http://jg7k3.ifiesta.net:8080/images/a320903bb9daeea238773e2b2152966b.png" group-title="United Kingdom - News",UK: BBC Parliament
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PMxtEAGwfX__D8sagBmWt4AzlZuPP92L1xEe-7bpJALD/ts
+#EXTINF:-1 xui-id="7218" tvg-id="BBCSCHD" tvg-name="UK: BBC Scotland HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/5a62656009290c62beea7ef45d9ca8a1.png" group-title="United Kingdom - News",UK: BBC Scotland HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PMxtEAGwfX__D8sagBmWt4BjJ7_uWwc90tK0F-Dc5-1I/ts
+#EXTINF:-1 xui-id="7219" tvg-id="cbsdrama.uk" tvg-name="UK: Reality Xtra" tvg-logo="http://jg7k3.ifiesta.net:8080/images/fbbe59366fc471232e1b6ea15bad12cb.png" group-title="United Kingdom - Entertainment",UK: Reality Xtra
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PMxtEAGwfX__D8sagBmWt4D0N-kaNWEQS7gCpu1gHqID/ts
+#EXTINF:-1 xui-id="7220" tvg-id="cbsjustice.uk" tvg-name="UK: CBS Justice" tvg-logo="http://jg7k3.ifiesta.net:8080/images/086bbcca8f07f5a0a5a8e33ef06320bd.png" group-title="United Kingdom - Entertainment",UK: CBS Justice
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PMxtEAGwfX__D8sagBmWt4B3Eko_oS97kFP1Ce0z9zML/ts
+#EXTINF:-1 xui-id="7221" tvg-id="CBSRELT" tvg-name="UK: CBS Reality" tvg-logo="http://jg7k3.ifiesta.net:8080/images/b295929ba801eaf3e9331f4688d861e9.png" group-title="United Kingdom - Entertainment",UK: CBS Reality
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PMxtEAGwfX__D8sagBmWt4C5dAZXFz7vQtFjMSOXiKR0/ts
+#EXTINF:-1 xui-id="7222" tvg-id="CBSREL1" tvg-name="UK: CBS Reality +1" tvg-logo="http://jg7k3.ifiesta.net:8080/images/5dcb07dfe6b38a99dadd740d42e51363.png" group-title="United Kingdom - Entertainment",UK: CBS Reality +1
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PMxtEAGwfX__D8sagBmWt4AB4Er1Xo5geo_lxvNOEE3X/ts
+#EXTINF:-1 xui-id="7223" tvg-id="CNBCEHD" tvg-name="UK: CNBC HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/c6ca0c97c34a1053ed21ea94b812cfe8.png" group-title="United Kingdom - News",UK: CNBC HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PMxtEAGwfX__D8sagBmWt4AdA6WHDWuGCiF7e6Z5tlML/ts
+#EXTINF:-1 xui-id="7224" tvg-id="" tvg-name="UK: Channel 44" tvg-logo="" group-title="United Kingdom - International",UK: Channel 44
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PMxtEAGwfX__D8sagBmWt4CiI82xhr7nhyQtPFcI8l7h/ts
+#EXTINF:-1 xui-id="7225" tvg-id="channels24.uk" tvg-name="UK: Channels 24" tvg-logo="https://play-lh.googleusercontent.com/umnpxRtZspajiZtlfBUg0rKNGIfARoEj8uKSHWLfL1fFZ-RhAodcj6SMGfwnFWuiGv4" group-title="United Kingdom - News",UK: Channels 24
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PMxtEAGwfX__D8sagBmWt4BQA_wAxOzhXqSHx9XKaeZ-/ts
+#EXTINF:-1 xui-id="7226" tvg-id="clublandtv.uk" tvg-name="UK: Clubland TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/Clubland_2022.svg/revision/latest/scale-to-width-down/300?cb=20220606175658" group-title="United Kingdom - Music",UK: Clubland TV
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PMxtEAGwfX__D8sagBmWt4DZrG4knO8AFfAF6QQg061s/ts
+#EXTINF:-1 xui-id="7227" tvg-id="DRAMAUK" tvg-name="UK: Drama" tvg-logo="http://jg7k3.ifiesta.net:8080/images/e992a3fcb8216e026769c8536b30acf5.png" group-title="United Kingdom - Entertainment",UK: Drama
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PMxtEAGwfX__D8sagBmWt4DnlDBJmPgQGJ_XQ31ZoMjp/ts
+#EXTINF:-1 xui-id="7228" tvg-id="DRAVMP1" tvg-name="UK: Drama +1" tvg-logo="http://jg7k3.ifiesta.net:8080/images/92f4455521f4f33112d9853ffde7dc85.png" group-title="United Kingdom - Entertainment",UK: Drama +1
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PMxtEAGwfX__D8sagBmWt4C73EBEwNAewNkuv--QGdwb/ts
+#EXTINF:-1 xui-id="7229" tvg-id="" tvg-name="UK: ETV5" tvg-logo="" group-title="United Kingdom - Entertainment",UK: ETV5
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PMxtEAGwfX__D8sagBmWt4AzmAMrDvq5eeE_0_FLh0Q7/ts
+#EXTINF:-1 xui-id="7230" tvg-id="" tvg-name="UK: Ginxe Sports TV" tvg-logo="http://mushypea.ddns.net:228/images/d194264b2dd820a2592471b50648365c.png" group-title="United Kingdom - Sports",UK: Ginxe Sports TV
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PMxtEAGwfX__D8sagBmWt4Dn16r3eVjY-9b40Xh-Tr0V/ts
+#EXTINF:-1 xui-id="7231" tvg-id="" tvg-name="UK: Good News TV" tvg-logo="http://mushypea.ddns.net:228/images/c86e8b5324022d03a25f3e8e786a0d76.png" group-title="United Kingdom - Sports",UK: Good News TV
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PMxtEAGwfX__D8sagBmWt4C47XMuyysLuCen_zED5VoD/ts
+#EXTINF:-1 xui-id="7232" tvg-id="HGTVUK" tvg-name="UK: HGTV" tvg-logo="http://jg7k3.ifiesta.net:8080/images/965886a04eaacfbe08fc42973e5f3182.png" group-title="United Kingdom - Entertainment",UK: HGTV
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PMxtEAGwfX__D8sagBmWt4AOP_dUwHTrWMmoCtPjlTAg/ts
+#EXTINF:-1 xui-id="7233" tvg-id="HGTVUP1" tvg-name="UK: HGTV +1" tvg-logo="http://jg7k3.ifiesta.net:8080/images/b7692f3b73af7b203e760eb849767f6f.png" group-title="United Kingdom - Entertainment",UK: HGTV +1
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PMxtEAGwfX__D8sagBmWt4BGl5RexLTPQljhMoXn63rK/ts
+#EXTINF:-1 xui-id="7234" tvg-id="hiimpacttv.uk" tvg-name="UK: Hi-Impact TV" tvg-logo="http://jg7k3.ifiesta.net:8080/images/7485a47bed9b013a03fc3d88961d6c03.png" group-title="United Kingdom - Entertainment",UK: Hi-Impact TV
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PMxtEAGwfX__D8sagBmWt4CBCovQB8ISSrln4fU5aRun/ts
+#EXTINF:-1 xui-id="7235" tvg-id="highstreettv2.uk" tvg-name="UK: High Street TV 2" tvg-logo="http://jg7k3.ifiesta.net:8080/images/8398ac6b281a374a09084b670bb7fcba.png" group-title="United Kingdom - Shopping",UK: High Street TV 2
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PMxtEAGwfX__D8sagBmWt4DioKubAj4zYv4n1FUn9Mu6/ts
+#EXTINF:-1 xui-id="7236" tvg-id="highstreettv3.uk" tvg-name="UK: High Street TV 3" tvg-logo="http://jg7k3.ifiesta.net:8080/images/8398ac6b281a374a09084b670bb7fcba.png" group-title="United Kingdom - Shopping",UK: High Street TV 3
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PMxtEAGwfX__D8sagBmWt4BhzJahqTMTsSi5LBXMKzzf/ts
+#EXTINF:-1 xui-id="7237" tvg-id="KICCTV" tvg-name="UK: KICC TV" tvg-logo="http://jg7k3.ifiesta.net:8080/images/0d114578c46afc65017ae13e1dff84b3.png" group-title="United Kingdom - Religion",UK: KICC TV
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PMxtEAGwfX__D8sagBmWt4AHxvWVKTHTDC0dv6g7GfZW/ts
+#EXTINF:-1 xui-id="7238" tvg-id="KISS" tvg-name="UK: KISS" tvg-logo="http://jg7k3.ifiesta.net:8080/images/cb3a374a6b6153fa8fd0e0a92abe2b17.png" group-title="United Kingdom - Music",UK: KISS
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PMxtEAGwfX__D8sagBmWt4CY4CiJxYRSsRFeAX3KcUdS/ts
+#EXTINF:-1 xui-id="7239" tvg-id="ktv.uk" tvg-name="UK: KTV" tvg-logo="http://jg7k3.ifiesta.net:8080/images/b9c951dd7971ee82a6346c696343a32e.png" group-title="United Kingdom - International",UK: KTV
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PMxtEAGwfX__D8sagBmWt4DSSVZmC6xWA6vb9l54Nd3S/ts
+#EXTINF:-1 xui-id="7240" tvg-id="KRANG" tvg-name="UK: Kerrang!" tvg-logo="http://jg7k3.ifiesta.net:8080/images/3286eeb9854cca68a9a94832f5575c3b.png" group-title="United Kingdom - Music",UK: Kerrang!
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PMxtEAGwfX__D8sagBmWt4CEiBP0fWRd5AWOd0jg4BAr/ts
+#EXTINF:-1 xui-id="7241" tvg-id="LONLIVE" tvg-name="UK: London Live" tvg-logo="http://jg7k3.ifiesta.net:8080/images/66cc1908ab380fc4f206db3bb49a5665.png" group-title="United Kingdom - Entertainment",UK: London Live
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PMxtEAGwfX__D8sagBmWt4AutE9qRmiZSHxr0FbXxwhW/ts
+#EXTINF:-1 xui-id="7242" tvg-id="MTVUKHD" tvg-name="UK: MTV" tvg-logo="http://jg7k3.ifiesta.net:8080/images/9439e7ccc8e2b416a8ed4853216ea64c.png" group-title="United Kingdom - Entertainment",UK: MTV
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PMxtEAGwfX__D8sagBmWt4C3HRuNHjkQR1nolK9oCQ61/ts
+#EXTINF:-1 xui-id="7243" tvg-id="MTVBSE" tvg-name="UK: MTV 90s" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/MTV_90s_2022.svg/revision/latest/scale-to-width-down/200?cb=20220527212829" group-title="United Kingdom - Music",UK: MTV 90s
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PMxtEAGwfX__D8sagBmWt4DdKdw0u8k4eb9FjJPDlQ7C/ts
+#EXTINF:-1 xui-id="7244" tvg-id="MTVCLS" tvg-name="UK: MTV 80s" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/34/MTV_80s_%28UK_%26_Ireland%29.png/revision/latest/scale-to-width-down/200?cb=20220331070338" group-title="United Kingdom - Music",UK: MTV 80s
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PMxtEAGwfX__D8sagBmWt4DYsje0Qvx5c4_BlcduLBon/ts
+#EXTINF:-1 xui-id="7245" tvg-id="MTVUKHD" tvg-name="UK: MTV HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/9439e7ccc8e2b416a8ed4853216ea64c.png" group-title="United Kingdom - Entertainment",UK: MTV HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PMxtEAGwfX__D8sagBmWt4BMrlhNGYVpWmBIYjP__Ez4/ts
+#EXTINF:-1 xui-id="7246" tvg-id="MAGIC" tvg-name="UK: Magic" tvg-logo="http://jg7k3.ifiesta.net:8080/images/77924b3a3d872176633745c6d2420873.png" group-title="United Kingdom - Music",UK: Magic
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PMxtEAGwfX__D8sagBmWt4Czf-U39n_DnD_7BZBlqIFd/ts
+#EXTINF:-1 xui-id="7247" tvg-id="MOVIE24" tvg-name="UK: Movies 24 SD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/cfe94068ce447355c00702af960ac611.png" group-title="United Kingdom - Movies",UK: Movies 24 SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PMxtEAGwfX__D8sagBmWt4AxN1zT8fZU77iybU4UTqVK/ts
+#EXTINF:-1 xui-id="7248" tvg-id="MOV24P" tvg-name="UK: Movies 24+ SD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/267bf98e0486c6f3c4a68bab023e59a8.png" group-title="United Kingdom - Movies",UK: Movies 24+ SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PMxtEAGwfX__D8sagBmWt4Bk4m2enRk9t-v_oUJqseo6/ts
+#EXTINF:-1 xui-id="7249" tvg-id="NDTV247" tvg-name="UK: NDTV 24x7" tvg-logo="http://jg7k3.ifiesta.net:8080/images/3344eb09c7a17c28f13650fe85f7a8b0.png" group-title="United Kingdom - News",UK: NDTV 24x7
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PMxtEAGwfX__D8sagBmWt4DM54NkkQP4QJBYYkHh3xrg/ts
+#EXTINF:-1 xui-id="7250" tvg-id="nhkworldhd.uk" tvg-name="UK: NHK World HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/3c6791bef3367206516f18b049cce653.jpg" group-title="United Kingdom - News",UK: NHK World HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PMxtEAGwfX__D8sagBmWt4C2apfeM0H7Yefm1zl5UWnV/ts
+#EXTINF:-1 xui-id="7251" tvg-id="NOW90UK" tvg-name="UK: NOW ROCK" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/NOW_Rock.png/revision/latest/scale-to-width-down/200?cb=20221227132922" group-title="United Kingdom - Music",UK: NOW ROCK
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PMxtEAGwfX__D8sagBmWt4CH3eUcPGdq2fvC7aBbv3em/ts
+#EXTINF:-1 xui-id="7252" tvg-id="ntd.uk" tvg-name="UK: NTD" tvg-logo="" group-title="United Kingdom - Entertainment",UK: NTD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PMxtEAGwfX__D8sagBmWt4AW_js6rxVEl20xKu-JigxO/ts
+#EXTINF:-1 xui-id="7253" tvg-id="NOORTV" tvg-name="UK: Noor TV" tvg-logo="http://jg7k3.ifiesta.net:8080/images/da0d697fa9c5e6c5a08eb19944d628c1.png" group-title="United Kingdom - International",UK: Noor TV
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PMxtEAGwfX__D8sagBmWt4A19hXoFLWexDDyDumHtVHa/ts
+#EXTINF:-1 xui-id="7254" tvg-id="OIRETV" tvg-name="UK: Oireachtas TV" tvg-logo="http://jg7k3.ifiesta.net:8080/images/2652a5e9ea868f7dceebcf795ef4227c.png" group-title="United Kingdom - News",UK: Oireachtas TV
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PMxtEAGwfX__D8sagBmWt4BFIYyKZnvcIVeqpYJAwkSz/ts
+#EXTINF:-1 xui-id="7255" tvg-id="pbsamerica.uk" tvg-name="UK: PBS America SD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/ce083ac30ba97317a9c08ccc2f7f183e.png" group-title="United Kingdom - Documentaries & Factual Entertainment",UK: PBS America SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PMxtEAGwfX__D8sagBmWt4DpobkhzzQIVsNRdrwwymg_/ts
+#EXTINF:-1 xui-id="7256" tvg-id="trtworld.uk" tvg-name="UK: TRT World" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/TRT_World_logo.svg/revision/latest/scale-to-width-down/300?cb=20211029170858" group-title="United Kingdom - News",UK: TRT World
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PMxtEAGwfX__D8sagBmWt4DwJJniEgvHop87TnRnJoJV/ts
+#EXTINF:-1 xui-id="7257" tvg-id="tvcnews.uk" tvg-name="UK: TVC News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/TVC_News_Logo_with_slogan.png/revision/latest/scale-to-width-down/300?cb=20211016121018" group-title="United Kingdom - News",UK: TVC News
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PMxtEAGwfX__D8sagBmWt4C7yQ91wSWEPGLt0Os9WqSl/ts
+#EXTINF:-1 xui-id="7258" tvg-id="REALLY" tvg-name="UK: Really" tvg-logo="http://jg7k3.ifiesta.net:8080/images/c2ef3d4ad8a478a5a246d2e92a7cb344.png" group-title="United Kingdom - Entertainment",UK: Really
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PMxtEAGwfX__D8sagBmWt4BAJVd2QpPKbx30g0FSPsWQ/ts
+#EXTINF:-1 xui-id="7259" tvg-id="QVCSTFV" tvg-name="UK: QVC Style HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/6a6eecb282e7d0251db140895d8891e4.png" group-title="United Kingdom - Shopping",UK: QVC Style HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PMxtEAGwfX__D8sagBmWt4C6N4T4WeP_AbwWX8X0zJ7w/ts
+#EXTINF:-1 xui-id="7260" tvg-id="QREDUK" tvg-name="UK: Quest Red" tvg-logo="http://jg7k3.ifiesta.net:8080/images/6a7d28fd65917b15c24bed6880270864.png" group-title="United Kingdom - Entertainment",UK: Quest Red
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PMxtEAGwfX__D8sagBmWt4Aa0MuSgXHWzfJt2i8IKzJH/ts
+#EXTINF:-1 xui-id="7261" tvg-id="QREDUK1" tvg-name="UK: Quest Red +1" tvg-logo="http://jg7k3.ifiesta.net:8080/images/e2c3ec929b027cecd126714c7287a6cb.png" group-title="United Kingdom - Entertainment",UK: Quest Red +1
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PMxtEAGwfX__D8sagBmWt4B2_0fnv_TC32_Y9kgaaBbj/ts
+#EXTINF:-1 xui-id="7262" tvg-id="" tvg-name="UK: RT HD" tvg-logo="http://mushypea.ddns.net:228/images/332679979d1df933ee5a8bea7d7b7b7c.png" group-title="United Kingdom - News",UK: RT HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PMxtEAGwfX__D8sagBmWt4Au_W_56AXhuKntZiZt3FfZ/ts
+#EXTINF:-1 xui-id="7263" tvg-id="rtejr.ie" tvg-name="UK: RTÉjr" tvg-logo="http://jg7k3.ifiesta.net:8080/images/9d28a64a23a82cc527dfbcdf0f3b1df6.png" group-title="United Kingdom - Kids",UK: RTÉjr
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PMxtEAGwfX__D8sagBmWt4BbTgjCNuoKEZvZAyUSFUfv/ts
+#EXTINF:-1 xui-id="7264" tvg-id="PICKTV" tvg-name="UK: Pick" tvg-logo="http://jg7k3.ifiesta.net:8080/images/9e08e286e91d5b7f29a0dc6766d0e782.png" group-title="United Kingdom - Entertainment",UK: Pick
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PMxtEAGwfX__D8sagBmWt4C5WSqYkAK_pQaVlAthj_cq/ts
+#EXTINF:-1 xui-id="7265" tvg-id="" tvg-name="UK: QUEST" tvg-logo="http://jg7k3.ifiesta.net:8080/images/1ba3728091746a54ed270bb4ed206106.png" group-title="United Kingdom - Entertainment",UK: QUEST
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PMxtEAGwfX__D8sagBmWt4CJ1jYxnh_vQ74SYmVQlqK-/ts
+#EXTINF:-1 xui-id="7266" tvg-id="QUESTP1" tvg-name="UK: QUEST +1" tvg-logo="http://jg7k3.ifiesta.net:8080/images/1ef358e682cd9d2cf5695573b851218d.png" group-title="United Kingdom - Entertainment",UK: QUEST +1
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PMxtEAGwfX__D8sagBmWt4C6QGeUdvy4TM7tiGTlhh3U/ts
+#EXTINF:-1 xui-id="7267" tvg-id="QVCH" tvg-name="UK: QVC HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/6631d44959e66f7c0ea1c3c26cc38763.png" group-title="United Kingdom - Shopping",UK: QVC HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PMxtEAGwfX__D8sagBmWt4CO8SPobVmXv0EbKK4DIDl6/ts
+#EXTINF:-1 xui-id="7268" tvg-id="qvcextra.uk" tvg-name="UK: QVC Extra" tvg-logo="http://jg7k3.ifiesta.net:8080/images/fb0504a89eb3051e40a4c6e2124d1ea7.png" group-title="United Kingdom - Shopping",UK: QVC Extra
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PMxtEAGwfX__D8sagBmWt4DyPw0QIHLYoLOxrzaIGrJc/ts
+#EXTINF:-1 xui-id="7269" tvg-id="" tvg-name="UK: The Craft Store" tvg-logo="http://jg7k3.ifiesta.net:8080/images/8c0925ab4ea16bc586ba685df3123145.png" group-title="United Kingdom - Shopping",UK: The Craft Store
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PMxtEAGwfX__D8sagBmWt4BVwJ1CQoM2vKp-Az2scX5d/ts
+#EXTINF:-1 xui-id="7270" tvg-id="" tvg-name="UK: Trace Hits" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/Trace_Hits.svg/revision/latest/scale-to-width-down/250?cb=20210810164758" group-title="United Kingdom - Music",UK: Trace Hits
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PMxtEAGwfX__D8sagBmWt4ChHlQlCKoRvlb9JNaN6bPo/ts
+#EXTINF:-1 xui-id="7271" tvg-id="tracevault.uk" tvg-name="UK: Trace Vault" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1e/Trace_Vault_2020.svg/revision/latest/scale-to-width-down/250?cb=20210810061514" group-title="United Kingdom - Music",UK: Trace Vault
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PMxtEAGwfX__D8sagBmWt4Ddk4ZYrs7ksBfmb3AETX0K/ts
+#EXTINF:-1 xui-id="7272" tvg-id="" tvg-name="UK: Viaplay 2 HD (UK)" tvg-logo="http://mushypea.ddns.net:228/images/d27b23b837ebc910d902f73efcbbc9cd.png" group-title="United Kingdom - Sports",UK: Viaplay 2 HD (UK)
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PMxtEAGwfX__D8sagBmWt4DVi65XqtmacqqojbuyNkEd/ts
+#EXTINF:-1 xui-id="7273" tvg-id="BOXHTUK" tvg-name="UK: Box Hits" tvg-logo="http://jg7k3.ifiesta.net:8080/images/a7ec309194b4650f4b0970cde9086aa3.png" group-title="United Kingdom - Music",UK: Box Hits
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PMxtEAGwfX__D8sagBmWt4DF1PmBATPRdbf19PwPwYz3/ts
+#EXTINF:-1 xui-id="7274" tvg-id="BOX" tvg-name="UK: The Box" tvg-logo="http://jg7k3.ifiesta.net:8080/images/5b3f92f22d601991ffa7d478b99709bc.png" group-title="United Kingdom - Music",UK: The Box
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PMxtEAGwfX__D8sagBmWt4DNKUKBWbAhIDhBSZtiyCxn/ts
+#EXTINF:-1 xui-id="7275" tvg-id="VENUSTV" tvg-name="UK: Venus TV" tvg-logo="http://jg7k3.ifiesta.net:8080/images/8c662516b5136e5fe7708af9403ba3ec.png" group-title="United Kingdom - International",UK: Venus TV
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PMxtEAGwfX__D8sagBmWt4DQyAXwq5Zcm0qL_OnapWoJ/ts
+#EXTINF:-1 xui-id="7276" tvg-id="VOXAFRI" tvg-name="UK: Vox Africa" tvg-logo="http://jg7k3.ifiesta.net:8080/images/93ce72b625b5c8323cc577caa07c423d.jpg" group-title="United Kingdom - Entertainment",UK: Vox Africa
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PMxtEAGwfX__D8sagBmWt4D9omFh9__2q4qsZCfrLRU9/ts
+#EXTINF:-1 xui-id="7278" tvg-id="YESTDAY" tvg-name="UK: YESTERDAY SD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/c3cb559655b252a596c80671333882bf.png" group-title="United Kingdom - Documentaries & Factual Entertainment",UK: YESTERDAY SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PMxtEAGwfX__D8sagBmWt4C5lsG4Sz8tYENUb_PtxKJ7/ts
+#EXTINF:-1 xui-id="7279" tvg-id="YESDYP1" tvg-name="UK: YESTERDAY +1 SD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/6c6fe6e6d40b2c7fe289e912195f585f.png" group-title="United Kingdom - Documentaries & Factual Entertainment",UK: YESTERDAY +1 SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PMxtEAGwfX__D8sagBmWt4DYyRmpLj6y5qeFHM55tyKy/ts
+#EXTINF:-1 xui-id="7280" tvg-id="ZEE" tvg-name="UK: Zee TV HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/4fdbd88587d198eb4c0cc1831da3bcc9.png" group-title="United Kingdom - International",UK: Zee TV HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PMxtEAGwfX__D8sagBmWt4BQsNVms4GuTtIslxcJQwq-/ts
+#EXTINF:-1 xui-id="7281" tvg-id="HORROR1" tvg-name="UK: Horror Channel +1 SD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/1e70f94bd429fa58ee63664065b0e8c8.png" group-title="United Kingdom - Movies",UK: Horror Channel +1 SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PMxtEAGwfX__D8sagBmWt4CQUEZGIYuyf0akdJzy94HJ/ts
+#EXTINF:-1 xui-id="7282" tvg-id="HORROR" tvg-name="UK: Horror Channel SD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/b7281d19428a982a935a56b25c64f665.png" group-title="United Kingdom - Movies",UK: Horror Channel SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PMxtEAGwfX__D8sagBmWt4AErv9-X5HQBYH7vD8Nhlft/ts
+#EXTINF:-1 xui-id="7283" tvg-id="wion.uk" tvg-name="UK: iON TV" tvg-logo="http://jg7k3.ifiesta.net:8080/images/8a92919d61f03837231eb0412265fc3b.jpg" group-title="United Kingdom - International",UK: iON TV
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PMxtEAGwfX__D8sagBmWt4CZ-TVk2skwEBqXpRXryCcN/ts
+#EXTINF:-1 xui-id="7284" tvg-id="arisenews.uk" tvg-name="UK: Arise News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/Arise_News_Logo.png/revision/latest/scale-to-width-down/300?cb=20211016123306" group-title="United Kingdom - News",UK: Arise News
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PMxtEAGwfX__D8sagBmWt4D40j4Cmh4PxjlL4EwpFGuW/ts
+#EXTINF:-1 xui-id="7285" tvg-id="bestdirect.uk" tvg-name="UK: Best Direct" tvg-logo="http://jg7k3.ifiesta.net:8080/images/5b10ed7d46060f10fa52c01bfd7e9051.png" group-title="United Kingdom - Shopping",UK: Best Direct
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PMxtEAGwfX__D8sagBmWt4AMF3EizLj09GzoI_Hw_ec1/ts
+#EXTINF:-1 xui-id="7286" tvg-id="BLOOEHD" tvg-name="UK: Bloomberg HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/a646056bcfdc370f4be736bb8d2662ff.png" group-title="United Kingdom - News",UK: Bloomberg HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PMxtEAGwfX__D8sagBmWt4D-gQdp09RY9OtBLSZ6zACd/ts
+#EXTINF:-1 xui-id="7287" tvg-id="CHANNLS" tvg-name="UK: Channel S" tvg-logo="http://jg7k3.ifiesta.net:8080/images/28252357cb48de1b34f83879853af731.png" group-title="United Kingdom - International",UK: Channel S
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PMxtEAGwfX__D8sagBmWt4CipSCtRx_RazmF_Y3NfC7F/ts
+#EXTINF:-1 xui-id="7288" tvg-id="CNNEURH" tvg-name="UK: CNN" tvg-logo="http://jg7k3.ifiesta.net:8080/images/e2e8f356f66a478d378aa85aa604c0de.png" group-title="United Kingdom - News",UK: CNN
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PMxtEAGwfX__D8sagBmWt4B2qNH8T1HCog3y80SW50Cq/ts
+#EXTINF:-1 xui-id="7289" tvg-id="channel7.uk" tvg-name="UK: Channel 7" tvg-logo="" group-title="United Kingdom - Entertainment",UK: Channel 7
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PMxtEAGwfX__D8sagBmWt4C8NnbfvGPC4DOTrvfV5f5q/ts
+#EXTINF:-1 xui-id="7290" tvg-id="courttv.uk" tvg-name="UK: Court TV" tvg-logo="http://jg7k3.ifiesta.net:8080/images/7092433615ab70643cc39be62690821c.png" group-title="United Kingdom - Entertainment",UK: Court TV
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PMxtEAGwfX__D8sagBmWt4BbXVzciVvrl4mKjQZHOEGo/ts
+#EXTINF:-1 xui-id="7291" tvg-id="craftextra.uk" tvg-name="UK: Craft Extra" tvg-logo="http://jg7k3.ifiesta.net:8080/images/e6047cae31e7a6c0e34440a1505df37c.jpg" group-title="United Kingdom - Shopping",UK: Craft Extra
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PMxtEAGwfX__D8sagBmWt4CA1dJVX8-VmgnijmgtT-kB/ts
+#EXTINF:-1 xui-id="7292" tvg-id="" tvg-name="UK: RT" tvg-logo="http://mushypea.ddns.net:228/images/332679979d1df933ee5a8bea7d7b7b7c.png" group-title="United Kingdom - News",UK: RT
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PMxtEAGwfX__D8sagBmWt4Bhm-EmgJXrVfnEG8m6loxf/ts
+#EXTINF:-1 xui-id="7293" tvg-id="rok.uk" tvg-name="UK: ROK SD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/1302ea12257dcd2c82b2dded401bf046.png" group-title="United Kingdom - Movies",UK: ROK SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PMxtEAGwfX__D8sagBmWt4COBw7IsLMP0YJrtz1-Cw0P/ts
+#EXTINF:-1 xui-id="7294" tvg-id="" tvg-name="UK: New Vision TV" tvg-logo="http://jg7k3.ifiesta.net:8080/images/ebd9ce5a1ce8d0fe667483115fa4f556.png" group-title="United Kingdom - International",UK: New Vision TV
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PMxtEAGwfX__D8sagBmWt4DOqpnDFQjOUOJozf54RNP7/ts
+#EXTINF:-1 xui-id="7295" tvg-id="greatactionplus1.uk" tvg-name="UK: GREAT! action +1 SD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/75594604988a138e060f35d92b4c9c12.png" group-title="United Kingdom - Movies",UK: GREAT! action +1 SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PMxtEAGwfX__D8sagBmWt4DkA9HIAHLV8QCRBgILO5QY/ts
+#EXTINF:-1 xui-id="7296" tvg-id="greattvplus1.uk" tvg-name="UK: GREAT! tv +1" tvg-logo="http://jg7k3.ifiesta.net:8080/images/e32003afb27330e173467eb61f566b68.png" group-title="United Kingdom - Entertainment",UK: GREAT! tv +1
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PMxtEAGwfX__D8sagBmWt4D68hR9Y9poXrr2vtnkSRwY/ts
+#EXTINF:-1 xui-id="7297" tvg-id="greattv.uk" tvg-name="UK: GREAT! tv" tvg-logo="http://jg7k3.ifiesta.net:8080/images/fe1cb7656618147635746ab55e761826.png" group-title="United Kingdom - Entertainment",UK: GREAT! tv
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PMxtEAGwfX__D8sagBmWt4DUYZCsvATdCR0Ov99OeOXp/ts
+#EXTINF:-1 xui-id="7298" tvg-id="greatmovies.uk" tvg-name="UK: GREAT! movies SD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/840aafc21d46c34f311e74c364b022f5.png" group-title="United Kingdom - Movies",UK: GREAT! movies SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PMxtEAGwfX__D8sagBmWt4AbbuaJgUYOOM0J60HRQibw/ts
+#EXTINF:-1 xui-id="7299" tvg-id="greataction.uk" tvg-name="UK: GREAT! action SD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/0345bd8e2e517cded0831b277455be5b.png" group-title="United Kingdom - Movies",UK: GREAT! action SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PMxtEAGwfX__D8sagBmWt4A5F8O5sdefM6pBwbDhBjXK/ts
+#EXTINF:-1 xui-id="7300" tvg-id="greatmoviessplus1.uk" tvg-name="UK: GREAT! movies +1 SD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/60334ed6881dc48aa9eb9472dee43cce.png" group-title="United Kingdom - Movies",UK: GREAT! movies +1 SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBApizH-niVj_MLqlIo2P9QQjefO0hY0YNI4T833dYa7/ts
+#EXTINF:-1 xui-id="7301" tvg-id="greatclassicplus1.uk" tvg-name="UK: GREAT! movies classic +1" tvg-logo="http://jg7k3.ifiesta.net:8080/images/248cdc232b559c2f220872e4f402bdeb.png" group-title="United Kingdom - Movies",UK: GREAT! movies classic +1
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBApizH-niVj_MLqlIo2P9TUfo_BpfxkHwACKPM34s0E/ts
+#EXTINF:-1 xui-id="7302" tvg-id="greatclassic.uk" tvg-name="UK: GREAT! movies classic SD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/a66d45f1d89ee47bacf8a67e6bb18791.png" group-title="United Kingdom - Movies",UK: GREAT! movies classic SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBApizH-niVj_MLqlIo2P9TpEbL_0a0C3MoN8tC0cHAr/ts
+#EXTINF:-1 xui-id="7303" tvg-id="gbnews.uk" tvg-name="UK: GB News HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Gbnews.png/revision/latest?cb=20210219011529" group-title="United Kingdom - News",UK: GB News HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBApizH-niVj_MLqlIo2P9Qx9djuQmhwy5YngRi5vrRb/ts
+#EXTINF:-1 xui-id="7304" tvg-id="EUNEWS" tvg-name="UK: Euronews" tvg-logo="http://jg7k3.ifiesta.net:8080/images/86a7aa46de212787183719495553cf3c.png" group-title="United Kingdom - News",UK: Euronews
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBApizH-niVj_MLqlIo2P9SuVLlVTKEw41vN-5IeaiC6/ts
+#EXTINF:-1 xui-id="7305" tvg-id="dunyanews.uk" tvg-name="UK: Dunya News" tvg-logo="http://jg7k3.ifiesta.net:8080/images/6eeec4e01487e412a2dc2e637db3c048.jpg" group-title="United Kingdom - News",UK: Dunya News
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBApizH-niVj_MLqlIo2P9RZbWclFx7rqM3hnDYNpjh_/ts
+#EXTINF:-1 xui-id="7306" tvg-id="FR24ENH" tvg-name="UK: France 24 English HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/b46d5c22780bb96214d5d84cc48200e5.png" group-title="United Kingdom - News",UK: France 24 English HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBApizH-niVj_MLqlIo2P9QLoypP7JnUYbSWBn_vs1Qs/ts
+#EXTINF:-1 xui-id="7307" tvg-id="forcestv.uk" tvg-name="UK: Forces TV" tvg-logo="http://jg7k3.ifiesta.net:8080/images/b3535afec293c454830a75f738c05297.png" group-title="United Kingdom - Entertainment",UK: Forces TV
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBApizH-niVj_MLqlIo2P9QMO3ZbthogVl489w8MhZWU/ts
+#EXTINF:-1 xui-id="7308" tvg-id="foodxp.uk" tvg-name="UK: Foodxp" tvg-logo="http://jg7k3.ifiesta.net:8080/images/c0020086e03a603b7abbe0a2f5c2307d.png" group-title="United Kingdom - International",UK: Foodxp
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBApizH-niVj_MLqlIo2P9Sr15u0sjm8pLzR7N1uq5Fx/ts
+#EXTINF:-1 xui-id="7309" tvg-id="GEOUK" tvg-name="UK: GEO TV" tvg-logo="http://jg7k3.ifiesta.net:8080/images/14df2876fb537c5b33a429a0e7f9fc34.png" group-title="United Kingdom - International",UK: GEO TV
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBApizH-niVj_MLqlIo2P9QtBoCSSUE7x5pm45Ff3kAm/ts
+#EXTINF:-1 xui-id="7310" tvg-id="GEONEWS" tvg-name="UK: GEO News" tvg-logo="http://jg7k3.ifiesta.net:8080/images/0b0b82120d22030b8b537f1407b9a801.png" group-title="United Kingdom - International",UK: GEO News
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBApizH-niVj_MLqlIo2P9R2uPPVLeIX4MzKKsIsxseU/ts
+#EXTINF:-1 xui-id="7311" tvg-id="TVONEHD" tvg-name="UK: TV One" tvg-logo="http://jg7k3.ifiesta.net:8080/images/2516278c276e3f74afbc65f665587c89.png" group-title="United Kingdom - International",UK: TV One
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBApizH-niVj_MLqlIo2P9QPdtTfr4nsNsV0J4GLXV3u/ts
+#EXTINF:-1 xui-id="7312" tvg-id="" tvg-name="UK: Utsav Gold HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/015502d9cfce069c36ddd88e42869e12.jpg" group-title="United Kingdom - International",UK: Utsav Gold HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBApizH-niVj_MLqlIo2P9QRAHQ6fflMY1DrgS04I3uu/ts
+#EXTINF:-1 xui-id="7313" tvg-id="" tvg-name="UK: Utsav Plus HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/8e5a2e0b65319c8b8c6f92f1fab6d228.jpg" group-title="United Kingdom - International",UK: Utsav Plus HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBApizH-niVj_MLqlIo2P9S3SzV9iaB64VrR0iZws4dF/ts
+#EXTINF:-1 xui-id="7314" tvg-id="HALEBAI" tvg-name="UK: Ahlebait TV" tvg-logo="http://jg7k3.ifiesta.net:8080/images/19dd92a59a8c14140f4a49f1e67c7a56.png" group-title="United Kingdom - International",UK: Ahlebait TV
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBApizH-niVj_MLqlIo2P9TjbNRcd7ZcQW4j6yaA9vL3/ts
+#EXTINF:-1 xui-id="7315" tvg-id="akaalchannel.uk" tvg-name="UK: Akaal Channel" tvg-logo="http://jg7k3.ifiesta.net:8080/images/b432d84abfcd6d6a7b935c5bab40f2ed.jpg" group-title="United Kingdom - International",UK: Akaal Channel
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBApizH-niVj_MLqlIo2P9TkW2Jjo_TGz_ZRThVB3pr1/ts
+#EXTINF:-1 xui-id="7316" tvg-id="" tvg-name="UK: Arirang TV HD" tvg-logo="http://mushypea.ddns.net:228/images/44109b6d8abe9a16fd2798597332af3c.png" group-title="United Kingdom - News",UK: Arirang TV HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBApizH-niVj_MLqlIo2P9TyBCKTqtwbVl9EkVnVA4Bu/ts
+#EXTINF:-1 xui-id="7317" tvg-id="" tvg-name="UK: Ayozat TV" tvg-logo="" group-title="United Kingdom - Entertainment",UK: Ayozat TV
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBApizH-niVj_MLqlIo2P9QVZcGWe73NTpyMzN5dpFOf/ts
+#EXTINF:-1 xui-id="7318" tvg-id="" tvg-name="UK: COLORS" tvg-logo="http://jg7k3.ifiesta.net:8080/images/650de2b30914a7212837584f955cf480.png" group-title="United Kingdom - International",UK: COLORS
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBApizH-niVj_MLqlIo2P9TYWBRp5_fE4zOBNXga1SM3/ts
+#EXTINF:-1 xui-id="7319" tvg-id="colorsgujarati.uk" tvg-name="UK: Colors Gujurati" tvg-logo="http://jg7k3.ifiesta.net:8080/images/bfbd27b590e1b6d642ae8217bad27657.png" group-title="United Kingdom - International",UK: Colors Gujurati
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBApizH-niVj_MLqlIo2P9So5vECsX4hH6ZrywLmErhY/ts
+#EXTINF:-1 xui-id="7320" tvg-id="HUMEUR" tvg-name="UK: HUM EUROPE" tvg-logo="http://jg7k3.ifiesta.net:8080/images/c2ee4cc00cb998216a666dc591269770.png" group-title="United Kingdom - International",UK: HUM EUROPE
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBApizH-niVj_MLqlIo2P9QlFluu1_nj2jeL57Wq_ouF/ts
+#EXTINF:-1 xui-id="7321" tvg-id="hummasala.uk" tvg-name="UK: HUM Masala" tvg-logo="http://jg7k3.ifiesta.net:8080/images/76dca8d91e52c1f91ecb3ec7d8e27ea1.png" group-title="United Kingdom - International",UK: HUM Masala
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBApizH-niVj_MLqlIo2P9S79enpp5LOoOoVkkf_nptF/ts
+#EXTINF:-1 xui-id="7322" tvg-id="HIDAYAT" tvg-name="UK: Hidayat TV" tvg-logo="http://jg7k3.ifiesta.net:8080/images/209e55fba3ee84f80db125087eb435c8.png" group-title="United Kingdom - International",UK: Hidayat TV
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBApizH-niVj_MLqlIo2P9SXB7ZpwpRgK4wbRBASDu6n/ts
+#EXTINF:-1 xui-id="7323" tvg-id="madanichannel.uk" tvg-name="UK: Madani Channel" tvg-logo="http://jg7k3.ifiesta.net:8080/images/a8fd4ebc2fffd412973b860efc67de9c.jpg" group-title="United Kingdom - International",UK: Madani Channel
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBApizH-niVj_MLqlIo2P9RSxK-wSBVi0e7V7vmN5AZW/ts
+#EXTINF:-1 xui-id="7324" tvg-id="" tvg-name="UK: POLITICS PUNJAB TV" tvg-logo="http://jg7k3.ifiesta.net:8080/images/8f9e523aad1ecf0599f6a3bdf3a2fb9d.png" group-title="United Kingdom - International",UK: POLITICS PUNJAB TV
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBApizH-niVj_MLqlIo2P9Q_sDeyAG3bWAkY8qudUfQB/ts
+#EXTINF:-1 xui-id="7325" tvg-id="PTVGLOB" tvg-name="UK: PTV Global" tvg-logo="http://jg7k3.ifiesta.net:8080/images/cbd5503bc1ba07b4f57a5e806a87cdd0.png" group-title="United Kingdom - International",UK: PTV Global
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBApizH-niVj_MLqlIo2P9Q1f__zSGUfERKlvLWOlNPB/ts
+#EXTINF:-1 xui-id="7326" tvg-id="SANGAT" tvg-name="UK: Sangat" tvg-logo="http://jg7k3.ifiesta.net:8080/images/2565daf868a40a10f86b28268f9db1f2.png" group-title="United Kingdom - International",UK: Sangat
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBApizH-niVj_MLqlIo2P9QVxMJBwM7Dg9vGxnkYg-Jv/ts
+#EXTINF:-1 xui-id="7327" tvg-id="AAJTAK" tvg-name="UK: AAJ TAK" tvg-logo="http://jg7k3.ifiesta.net:8080/images/c7161f0dd65bc7b2eba1c44e41a53a04.png" group-title="United Kingdom - International",UK: AAJ TAK
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBApizH-niVj_MLqlIo2P9QbtWpEcfuNF3gvvBcNP3tL/ts
+#EXTINF:-1 xui-id="7328" tvg-id="aryfamily.uk" tvg-name="UK: ARY Digital" tvg-logo="http://jg7k3.ifiesta.net:8080/images/4ac340f9d2f453f61cb1a0567c12d086.png" group-title="United Kingdom - International",UK: ARY Digital
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBApizH-niVj_MLqlIo2P9T7lzWUGOXTG-gZPS7eP15G/ts
+#EXTINF:-1 xui-id="7329" tvg-id="AASTHA" tvg-name="UK: Aastha" tvg-logo="http://jg7k3.ifiesta.net:8080/images/c6a89aec288bedaa12e7e79385a2f331.png" group-title="United Kingdom - International",UK: Aastha
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBApizH-niVj_MLqlIo2P9T9OQ6tsUA_QCzCCjx2Crs3/ts
+#EXTINF:-1 xui-id="7330" tvg-id="AHLUL" tvg-name="UK: Ahlulbayt TV" tvg-logo="http://jg7k3.ifiesta.net:8080/images/958731a4c749bdac8b8b15b82599e4b9.png" group-title="United Kingdom - International",UK: Ahlulbayt TV
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBApizH-niVj_MLqlIo2P9Qqcaxz4WM_uOZst7Zxr0UJ/ts
+#EXTINF:-1 xui-id="7331" tvg-id="ALJAZEH" tvg-name="UK: Al Jazeera HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/1d71fdddef68af7fdc86ecfddc710ced.png" group-title="United Kingdom - News",UK: Al Jazeera HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBApizH-niVj_MLqlIo2P9Thg_J3oChXEZw5_75hO7fK/ts
+#EXTINF:-1 xui-id="7332" tvg-id="NBCNN" tvg-name="UK: NBC News Now" tvg-logo="http://jg7k3.ifiesta.net:8080/images/bdc073bce669254c9efcf07dd7b97bd0.png" group-title="United Kingdom - News",UK: NBC News Now
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBApizH-niVj_MLqlIo2P9SQxu_uWLrtHsiEXmxBqhOn/ts
+#EXTINF:-1 xui-id="7333" tvg-id="ZEECIN" tvg-name="UK: ZEE CINEMA" tvg-logo="http://jg7k3.ifiesta.net:8080/images/64956acee8e41bf58c90578ca98e4df5.png" group-title="United Kingdom - International",UK: ZEE CINEMA
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBApizH-niVj_MLqlIo2P9SGb0qpMS4WoBF-4tLpKgEp/ts
+#EXTINF:-1 xui-id="7334" tvg-id="" tvg-name="UK: Iran Int'l HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/0849842587e27ec9914cbf718986e15d.png" group-title="United Kingdom - International",UK: Iran Int'l HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBApizH-niVj_MLqlIo2P9R55pYpHzxlMHZHFB6NXdzx/ts
+#EXTINF:-1 xui-id="7335" tvg-id="CNNEURH" tvg-name="UK: CNN HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/e2e8f356f66a478d378aa85aa604c0de.png" group-title="United Kingdom - News",UK: CNN HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBApizH-niVj_MLqlIo2P9S4HRbV-OHrfId4YRKzYv4W/ts
+#EXTINF:-1 xui-id="7336" tvg-id="IDLFV" tvg-name="UK: Ideal World HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/19f65f29aa6c75f347f7979cb31aeceb.png" group-title="United Kingdom - Shopping",UK: Ideal World HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBApizH-niVj_MLqlIo2P9TcpNVVGioP3MIqCvWR4vBT/ts
+#EXTINF:-1 xui-id="7337" tvg-id="" tvg-name="UK: Eman Channel" tvg-logo="http://jg7k3.ifiesta.net:8080/images/58ae0060a2ef8eb14cda99da8ccfc9cf.jpg" group-title="United Kingdom - International",UK: Eman Channel
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBApizH-niVj_MLqlIo2P9T2Ebe8w9TNganZ-Ujotcfh/ts
+#EXTINF:-1 xui-id="7338" tvg-id="britasiatv.uk" tvg-name="UK: Brit Asia TV" tvg-logo="http://jg7k3.ifiesta.net:8080/images/66c5b2ac11b4ef0398b56deac9a2df66.png" group-title="United Kingdom - International",UK: Brit Asia TV
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBApizH-niVj_MLqlIo2P9TZYM4CXBtkHQKPt4xVKoAa/ts
+#EXTINF:-1 xui-id="7339" tvg-id="britishmuslim.uk" tvg-name="UK: British Muslim" tvg-logo="http://jg7k3.ifiesta.net:8080/images/ef78b2eaadbaa45669bf7c93485d333f.png" group-title="United Kingdom - International",UK: British Muslim
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBApizH-niVj_MLqlIo2P9TdSahOjO4m_Dpz3mXmyWk8/ts
+#EXTINF:-1 xui-id="7340" tvg-id="COLORHD" tvg-name="UK: COLORS HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/55c6411e2f109a0390d43ea4fbf129db.png" group-title="United Kingdom - International",UK: COLORS HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBApizH-niVj_MLqlIo2P9Rej3omL6yKApkjWF_21xSn/ts
+#EXTINF:-1 xui-id="7341" tvg-id="COLOCPX" tvg-name="UK: Colors Cineplex" tvg-logo="http://jg7k3.ifiesta.net:8080/images/75acbabc16e7811482fc24a4ebeabaf4.png" group-title="United Kingdom - International",UK: Colors Cineplex
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBApizH-niVj_MLqlIo2P9QJF-LOVMMxAzQltrzkzX9w/ts
+#EXTINF:-1 xui-id="7342" tvg-id="COLRISH" tvg-name="UK: Colors Rishtey" tvg-logo="http://jg7k3.ifiesta.net:8080/images/ac8dc382534a989f4b3df8daabbc4061.png" group-title="United Kingdom - International",UK: Colors Rishtey
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBApizH-niVj_MLqlIo2P9RnFb7IMKFCQmMN45KkjaSI/ts
+#EXTINF:-1 xui-id="7343" tvg-id="SIKHCH" tvg-name="UK: Sikh Channel" tvg-logo="http://jg7k3.ifiesta.net:8080/images/275f758161b988c1aa5d7367d81641c6.png" group-title="United Kingdom - International",UK: Sikh Channel
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBApizH-niVj_MLqlIo2P9Rz8snqFF7fXKIR03Xv5IBs/ts
+#EXTINF:-1 xui-id="7344" tvg-id="sanskar.uk" tvg-name="UK: Sanskar" tvg-logo="http://jg7k3.ifiesta.net:8080/images/fbf3a4ac454a9536164b5e2bce454bf5.png" group-title="United Kingdom - International",UK: Sanskar
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBApizH-niVj_MLqlIo2P9QohrRJHtsL_vZabXnxnZbk/ts
+#EXTINF:-1 xui-id="7345" tvg-id="INVDISC" tvg-name="UK: Investigation Discovery SD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/621d90dfd6b5da52fd0e1a1ff8f79a55.png" group-title="United Kingdom - Documentaries & Factual Entertainment",UK: Investigation Discovery SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBApizH-niVj_MLqlIo2P9TM4tFZZBneNRXC8JPKDQL6/ts
+#EXTINF:-1 xui-id="7346" tvg-id="MTVHITS" tvg-name="UK: MTV HITS" tvg-logo="http://jg7k3.ifiesta.net:8080/images/8ee8d68312ae1cc2ee50bdbd5bdb36aa.png" group-title="United Kingdom - Music",UK: MTV HITS
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBApizH-niVj_MLqlIo2P9TCbAfUc0BpE_7w-In07szQ/ts
+#EXTINF:-1 xui-id="7347" tvg-id="MTVMSUK" tvg-name="UK: MTV MUSIC" tvg-logo="http://jg7k3.ifiesta.net:8080/images/a0432a1f9b3e831cebd8669d3fc140fe.png" group-title="United Kingdom - Music",UK: MTV MUSIC
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBApizH-niVj_MLqlIo2P9QOLlOWSnWrr_zb-38i9u6c/ts
+#EXTINF:-1 xui-id="7348" tvg-id="" tvg-name="UK: DAZN 1 HD UK" tvg-logo="" group-title="United Kingdom - Sports",UK: DAZN 1 HD UK
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBApizH-niVj_MLqlIo2P9RxlwjIVU3JE4X-pwZcVJqn/ts
+#EXTINF:-1 xui-id="7349" tvg-id="LOVEWOR" tvg-name="UK: LoveWorld FHD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/65cd607489058394f5e005db57a99c58.png" group-title="United Kingdom - Religion",UK: LoveWorld FHD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBApizH-niVj_MLqlIo2P9SPFDp1Gua3elzoCbgIRR0y/ts
+#EXTINF:-1 xui-id="7350" tvg-id="WORD" tvg-name="UK: The Word Network SD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/3c22cb4768937499266ec6ac50bf0da2.png" group-title="United Kingdom - Religion",UK: The Word Network SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBApizH-niVj_MLqlIo2P9R_JDFHLX1lL6OLStC3T7gV/ts
+#EXTINF:-1 xui-id="7351" tvg-id="FATHWD" tvg-name="UK: Faith World TV SD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/9e552de64afaa073c8c0d2ce9c908e0f.png" group-title="United Kingdom - Religion",UK: Faith World TV SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBApizH-niVj_MLqlIo2P9SVHEjswZBcseNUGQtMyVpu/ts
+#EXTINF:-1 xui-id="7352" tvg-id="KICCTV" tvg-name="UK: KICC TV SD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/949d9f0b5d63eece63ac8963ea38cc35.png" group-title="United Kingdom - Religion",UK: KICC TV SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBApizH-niVj_MLqlIo2P9So17UmpP8yOVpQSne19QG5/ts
+#EXTINF:-1 xui-id="7165" tvg-id="smithsonian.uk" tvg-name="UK: Smithsonian HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/a236783696f5a8aa16ceb3971357ca51.png" group-title="United Kingdom - Entertainment",UK: Smithsonian HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PGP1FE7_rzGFhlp_ylH2PM0l9vG0iqcQLGN89dQJv9zt/ts
+#EXTINF:-1 xui-id="7166" tvg-id="smithsonian.uk" tvg-name="UK: Smithsonian" tvg-logo="http://jg7k3.ifiesta.net:8080/images/a236783696f5a8aa16ceb3971357ca51.png" group-title="United Kingdom - Entertainment",UK: Smithsonian
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PGP1FE7_rzGFhlp_ylH2PM0kCwRC_vNQizmMAl3eW33d/ts
+#EXTINF:-1 xui-id="1001" tvg-id="" tvg-name="Smithsonian Channel" tvg-logo="http://jg7k3.ifiesta.net:8080/images/463b0dad5a2a46fa1b6662e4d84f0947.png" group-title="United States",Smithsonian Channel
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PJuXRyzl9cM3dmwtVaE025v-bLG2XWWhuGy8Zx7vvgbK/ts
+#EXTINF:-1 xui-id="12342" tvg-id="" tvg-name="AR: BeIN Sports English 1 FHD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/7d898b6075d5bfa9714ddeffebb7933a.png" group-title="Arabs - Sports",AR: BeIN Sports English 1 FHD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBSxKdT93td0CRVkDm9nipcfDcQZVRyPFX74L3s1oV7R/ts
+#EXTINF:-1 xui-id="12343" tvg-id="" tvg-name="AR: BeIN Sports English 1 HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/7d898b6075d5bfa9714ddeffebb7933a.png" group-title="Arabs - Sports",AR: BeIN Sports English 1 HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBSxKdT93td0CRVkDm9nipcYWOoHNg0E7r3OJdKWG0fm/ts
+#EXTINF:-1 xui-id="12344" tvg-id="" tvg-name="AR: BeIN Sports English 1 SD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/7d898b6075d5bfa9714ddeffebb7933a.png" group-title="Arabs - Sports",AR: BeIN Sports English 1 SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBSxKdT93td0CRVkDm9nipcqvN0n8IKxhyviXxdOx3W1/ts
+#EXTINF:-1 xui-id="12345" tvg-id="" tvg-name="AR: BeIN Sports English 1 HD*" tvg-logo="http://jg7k3.ifiesta.net:8080/images/7d898b6075d5bfa9714ddeffebb7933a.png" group-title="Arabs - Sports",AR: BeIN Sports English 1 HD*
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBSxKdT93td0CRVkDm9nipetn9cFdPtpF6HF4wsPl_Ru/ts
+#EXTINF:-1 xui-id="12346" tvg-id="" tvg-name="AR: BeIN Sports English 2 FHD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/9cbffb45b836ee5c6c7fc46a0d10af90.png" group-title="Arabs - Sports",AR: BeIN Sports English 2 FHD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBSxKdT93td0CRVkDm9nipekiwDNmGTfAaCvNEsSYbqY/ts
+#EXTINF:-1 xui-id="12347" tvg-id="" tvg-name="AR: BeIN Sports English 2 HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/9cbffb45b836ee5c6c7fc46a0d10af90.png" group-title="Arabs - Sports",AR: BeIN Sports English 2 HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBSxKdT93td0CRVkDm9nipcStGXXIlVwOOcXUx5gQSTy/ts
+#EXTINF:-1 xui-id="12348" tvg-id="" tvg-name="AR: BeIN Sports English 2 SD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/df1b5e094aab2f98adff6e1ba2b3790b.png" group-title="Arabs - Sports",AR: BeIN Sports English 2 SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBSxKdT93td0CRVkDm9nipcNtfnhiNWjmOnY7G9OFz2h/ts
+#EXTINF:-1 xui-id="12349" tvg-id="" tvg-name="AR: BeIN Sports English 2 HD*" tvg-logo="http://jg7k3.ifiesta.net:8080/images/9cbffb45b836ee5c6c7fc46a0d10af90.png" group-title="Arabs - Sports",AR: BeIN Sports English 2 HD*
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBSxKdT93td0CRVkDm9nipcvsTkQYQVbAhtU4vmG91EV/ts
+#EXTINF:-1 xui-id="12350" tvg-id="" tvg-name="AR: BeIN Sports English 3 FHD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/df1b5e094aab2f98adff6e1ba2b3790b.png" group-title="Arabs - Sports",AR: BeIN Sports English 3 FHD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBSxKdT93td0CRVkDm9nipcxP4jAZw2RxeaOEaw5-yiI/ts
+#EXTINF:-1 xui-id="12351" tvg-id="" tvg-name="AR: BeIN Sports English 3 HD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/df1b5e094aab2f98adff6e1ba2b3790b.png" group-title="Arabs - Sports",AR: BeIN Sports English 3 HD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBSxKdT93td0CRVkDm9nipembtT2cC1Y-eVeG0Hc8i3C/ts
+#EXTINF:-1 xui-id="12352" tvg-id="" tvg-name="AR: BeIN Sports English 3 SD" tvg-logo="http://jg7k3.ifiesta.net:8080/images/df1b5e094aab2f98adff6e1ba2b3790b.png" group-title="Arabs - Sports",AR: BeIN Sports English 3 SD
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBSxKdT93td0CRVkDm9nipeemZ8S9a-rQ43qL91WXDFT/ts
+#EXTINF:-1 xui-id="12353" tvg-id="" tvg-name="AR: BeIN Sports English 3 HD*" tvg-logo="http://jg7k3.ifiesta.net:8080/images/df1b5e094aab2f98adff6e1ba2b3790b.png" group-title="Arabs - Sports",AR: BeIN Sports English 3 HD*
+http://jg7k3.ifiesta.net:8080/play/Rv9tUNLXDyOdSRQ2FV0_PBSxKdT93td0CRVkDm9nipfEXQNED_eJck9GJG6JFQuf/ts
